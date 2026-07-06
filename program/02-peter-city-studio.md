@@ -95,6 +95,11 @@ Camp rhythm all summer: Mon/Wed/Fri 60–90 min sessions, Sat big build (2–3 h
 
 Verified workflows for turning real maps and terrain into printable models. Suggested order: Map2Model → TouchTerrain/Terrain2STL → CADmapper.
 
+**Build-it-yourself route first:** our own scripts in [`projects/peter/`](../projects/peter/MAP-TO-MODEL.md)
+cover all three map layers — [buildings](../projects/peter/osm-to-scad.py),
+[terrain](../projects/peter/terrain-to-scad.py), and [streets](../projects/peter/streets-to-scad.py) —
+and unlike the web tools below, you can read exactly how they work and ask Claude to change them.
+
 | Tool | What it does | Difficulty | Link |
 |---|---|---|---|
 | **Map2Model** | Browser tool, no account/install: draw any area (rectangle/circle/polygon), get real OSM buildings + elevation, live 3D preview, export STL or **3MF with terrain/roads/buildings/water/greenery as separate colors** — drops straight into Bambu Studio for the AMS | ⭐ Easiest — start here | [map2model.de](https://www.map2model.de/) · [Fabbaloo review](https://www.fabbaloo.com/news/map2model-offers-accessible-way-to-generate-cityscapes-for-3d-printing) |

@@ -4,6 +4,11 @@
 
 Part of the [Boaky Family Summer 3D Printing Program](00-overview.md).
 
+> 💻 **Code you can print:** every stage of this track has a matching OpenSCAD
+> starter in [`projects/`](../projects/LEARNING-PATH.md) — the flexi snake, gyro
+> fidget, ball-joint figure, TPU squishy ball, and your penalty-shootout capstone
+> starter are all there, ready for you to remix (or ask Claude to).
+
 ---
 
 ## Where you're headed
