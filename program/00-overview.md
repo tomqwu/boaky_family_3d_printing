@@ -100,3 +100,4 @@ homework. Off-plan excitement wins; grab something from the
 | [06-shopping-list.md](06-shopping-list.md) | What to order and when |
 | [07-build-log-template.md](07-build-log-template.md) | Weekly log template |
 | [08-troubleshooting.md](08-troubleshooting.md) | Failure playbook, H2C quirks, maintenance |
+| [../projects/](../projects/README.md) | Starter OpenSCAD designs — printable code, editable by Claude |

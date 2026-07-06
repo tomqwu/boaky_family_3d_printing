@@ -52,6 +52,11 @@ curriculum (7+ hrs/week, generous materials budget) with:
 - **IP awareness.** Mario/Nintendo models get taken down from model sites; steer
   toward "inspired-by" original designs the kids make themselves rather than
   hunting for ripped IP. Original > copied is also the whole point of the program.
+- **Write OpenSCAD for them.** The `projects/` folder holds parametric OpenSCAD
+  starters. When a kid asks for a design change ("make the snake longer", "add a
+  pitched roof"), edit or create `.scad` files directly — they render and print
+  them. Keep code commented at kid level. For print-in-place designs, respect the
+  family's measured `clearance` value (see `projects/family/clearance-test.scad`).
 
 ## Repo layout
 
@@ -59,6 +64,7 @@ curriculum (7+ hrs/week, generous materials budget) with:
 CLAUDE.md              ← you are here (family + program context)
 README.md              ← human-facing intro
 program/               ← the 8-week summer program docs
+projects/              ← starter OpenSCAD designs (kids ask Claude to modify these!)
 qa/                    ← ongoing Q&A with Claude
   HOW-TO-ASK-CLAUDE.md ← guide for the kids
   QA-LOG.md            ← running log of questions + answers
