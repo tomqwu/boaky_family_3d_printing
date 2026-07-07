@@ -1,17 +1,32 @@
 # Sample Projects — Design With Code 💻→🖨️
 
-Starter **OpenSCAD** projects you can open, tweak, and print. OpenSCAD is CAD where
-you *write code* and a 3D model appears — which means these files live happily in
-git, and **you can ask Claude to change them for you** right in this repo.
+Starter **OpenSCAD** projects you can open, tweak, and print. OpenSCAD is CAD —
+computer-aided design, any app for building 3D shapes — where you *write code*
+and a 3D model appears. That means these files live happily in git, and **you
+can ask Claude to change them for you** right in this repo.
 
 Part of the [Boaky Family Summer 3D Printing Program](../program/00-overview.md).
+*Weird words? Check the [Decoder Ring](../program/10-glossary.md).*
 
 ## Setup (once, with Dad)
 
 1. Download OpenSCAD (free): https://openscad.org/downloads.html
 2. Open any `.scad` file from this folder.
-3. `F5` = quick preview. `F6` = full render. Then **File → Export → STL**.
+3. `F5` = quick preview. `F6` = full render. Then **File → Export → STL**
+   (an STL is the standard 3D-shape file every slicer can open).
 4. Open the STL in Bambu Studio, color-paint it if you want, slice, print.
+
+The whole loop, start to finish — you'll ride it all summer:
+
+```mermaid
+flowchart LR
+  A["Edit the code"] --> B["F5 preview"]
+  B --> C["F6 render"]
+  C --> D["Export STL"]
+  D --> E["Bambu Studio"]
+  E --> F["Print"]
+  F --> A
+```
 
 ## The projects
 
@@ -19,8 +34,8 @@ Full week-by-week mapping: [**LEARNING-PATH.md**](LEARNING-PATH.md).
 
 | File | For | What it teaches |
 |---|---|---|
-| [`family/clearance-test.scad`](family/clearance-test.scad) | Everyone, week 1 | **Print this first.** Five hinge joints with different gaps — find the smallest clearance our H2C can print that still moves. That number unlocks every print-in-place design. |
-| [`family/remix-pedestal.scad`](family/remix-pedestal.scad) | Everyone, week 2 | The remix move: `import()` any downloaded STL onto your own parametric base with your own title. |
+| [`family/clearance-test.scad`](family/clearance-test.scad) | Everyone, week 1 | **Print this first.** Five hinge joints with different gaps — find the smallest clearance our H2C can print that still moves. That number unlocks every print-in-place design (a design that comes off the printer already assembled and moving). |
+| [`family/remix-pedestal.scad`](family/remix-pedestal.scad) | Everyone, week 2 | The remix move: `import()` any downloaded STL onto your own parametric base (parametric = controlled by numbers you can change) with your own title. |
 | [`family/photo-lithophane.scad`](family/photo-lithophane.scad) | Everyone, week 4 | A photo becomes thickness: grayscale PNG → backlit panel. Comes with `make-test-image.py` so it works out of the box. |
 | [`family/magnet-coaster.scad`](family/magnet-coaster.scad) | Everyone, week 6 | Pause-at-height embedding: sealed magnet pockets, with the pause height computed for you. Magnets = get Dad. |
 | [`family/gift-box.scad`](family/gift-box.scad) | Everyone, any week | A sliding-lid gift box with their name on top — pairs with the [gift playbook](../program/09-gifts-and-occasions.md). |

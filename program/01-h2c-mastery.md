@@ -4,20 +4,37 @@ Everything the family needs to go from "we can press print" to "we can make this
 
 Part of the [Boaky Family Summer 3D Printing Program](00-overview.md).
 
+*Weird words? Check the [Decoder Ring](10-glossary.md).*
+
 ---
 
 ## 1. Meet your H2C
 
 ### What makes our printer special (the 60-second version)
 
-Most multi-color printers have **one nozzle**. Every time they change color, they have to squeeze the old filament out of that nozzle before the new color prints clean — that squeezed-out plastic is "purge" (a.k.a. printer poop), and it wastes both filament and time.
+Most multi-color printers have **one nozzle** — the hot metal tip that melts plastic and draws with it. Every time they change color, they have to squeeze the old **filament** (the plastic "ink" on the spool) out of that nozzle before the new color prints clean — that squeezed-out plastic is "purge" (a.k.a. printer poop), and it wastes both filament and time.
 
-Our **Bambu Lab H2C** cheats. Instead of purging, it **swaps the whole hotend**:
+Our **Bambu Lab H2C** cheats. Instead of purging, it **swaps the whole hotend** (the nozzle plus its heater, as one swappable unit — think pen cartridge):
 
 - On the right side of the build chamber there's a **garage of 6 hotends** (the **Vortek** system). Each garaged hotend keeps its own filament loaded, and each one has onboard memory that remembers which filament it last held.
 - There's also **1 permanently mounted left nozzle**.
 - 6 + 1 = **7 melt paths with almost no purging**. A color change means the toolhead grabs a different hotend instead of flushing plastic into a waste chute.
-- Swapped hotends heat by **induction** (like an induction stove) and reach printing temperature in **about 8 seconds**.
+- Swapped hotends heat by **induction** (magnetic fields heat the metal directly, like an induction stove) and reach printing temperature in **about 8 seconds**.
+
+Here's the whole trick as one picture:
+
+```mermaid
+flowchart LR
+    subgraph ONE["Most printers - one nozzle"]
+        A1["Print color A"] --> B1["Stop"]
+        B1 --> C1["Squeeze old color out of the nozzle - purge waste"]
+        C1 --> D1["Print color B"]
+    end
+    subgraph VTK["Our H2C - Vortek"]
+        A2["Print color A"] --> B2["Grab the next hotend - about 8 seconds"]
+        B2 --> C2["Print color B"]
+    end
+```
 
 How much does that actually matter? [Tom's Hardware tested it](https://www.tomshardware.com/3d-printing/bambu-lab-h2c-review) with a 5-color castle:
 
@@ -26,7 +43,9 @@ How much does that actually matter? [Tom's Hardware tested it](https://www.tomsh
 | Print time | ~23.5 hours | **11 h 13 m** |
 | Waste | ~279 g of purge waste | **~43 g prime tower** |
 
-That is roughly **2x faster** and about **58% less filament waste** than an AMS-purge workflow ([Makers101](https://makers101.com/bambu-lab-h2c-review-vortek-hotend-switching/), [Dreaming3D analysis](https://dreaming3d.net/blogs/news/the-bambu-lab-h2c-and-the-end-of-the-purge-tower)). Rule of thumb for our schedule: multi-color prints on our machine take much less extra time than online AMS estimates suggest. One honest caveat from Tom's: hotend swaps are still slower than a true toolchanger, and colors beyond 7 still purge — just far less than a single-nozzle machine.
+(The **AMS** is the box that holds 4 spools and feeds the printer whichever one it asks for; a **prime tower** is a small sacrificial block printed beside your model where the printer wipes in each new color.)
+
+That is roughly **2x faster** and about **58% less filament waste** than an AMS-purge workflow ([Makers101](https://makers101.com/bambu-lab-h2c-review-vortek-hotend-switching/), [Dreaming3D analysis](https://dreaming3d.net/blogs/news/the-bambu-lab-h2c-and-the-end-of-the-purge-tower)). Rule of thumb for our schedule: multi-color prints on our machine take much less extra time than online AMS estimates suggest. One honest caveat from Tom's: hotend swaps are still slower than a true toolchanger (a printer with several complete swappable print heads), and colors beyond 7 still purge — just far less than a single-nozzle machine.
 
 Where the H2C sits in Bambu's H2 family: the H2S is the fast single-nozzle baseline, the H2D has 2 fixed nozzles, and the H2C is the **multi-color specialist** ([Fauxhammer three-way comparison](https://www.fauxhammer.com/reviews/bambu-h2s-vs-h2d-vs-h2c-review-why-spending-more-can-actually-get-you-less/)).
 
@@ -52,7 +71,7 @@ Read these two official pages early in Week 1 — they explain the machine we ow
 
 Sources: [Bambu US store](https://us.store.bambulab.com/products/h2c), [official specs](https://bambulab.com/en/h2c/specs), [AMS 2 Pro / AMS HT FAQ](https://wiki.bambulab.com/en/ams/manual/ams-2-pro-ams-ht-faq), [H2C Filament Printing Guide](https://wiki.bambulab.com/en/h2c/h2c-filament-printing-guide).
 
-Safety notes that apply all summer: nozzles run up to 350 C and the bed to 120 C — hands out of the chamber while it moves. PLA and PETG are fine indoors; ABS/ASA need ventilation and Dad's sign-off. Dad approves anything unattended or overnight.
+Safety notes that apply all summer: nozzles run up to 350 C and the bed (the heated plate prints stick to) reaches 120 C — hands out of the chamber while it moves. PLA (the easy everyday plastic) and PETG (the tougher, slightly stretchy one) are fine indoors; ABS/ASA (the strong-but-smelly ones) need ventilation and Dad's sign-off. Dad approves anything unattended or overnight.
 
 ### Sensors and AI cameras (why we can trust long prints)
 
@@ -60,10 +79,10 @@ The H2C carries ~59 sensors and a computer-vision system ([GigaParts listing](ht
 
 - **1080p chamber camera** — live view from anywhere via the [Bambu Handy app](https://bambulab.com/en-us/download/app), plus automatic timelapses.
 - **1080p AI nozzle camera** (macro lens) — watches the plastic coming out of the nozzle to catch clogs and extrusion problems.
-- **AI failure detection** — spaghetti failures, material buildup on the nozzle, filament deviations. It can pause the print and ping our phones.
+- **AI failure detection** — spaghetti failures (a detached print turning into a noodle pile), material buildup on the nozzle, filament deviations. It can pause the print and ping our phones.
 - **Auto-calibration**: bed leveling, vibration compensation, fully automatic inductive nozzle-offset calibration (~25 micron accuracy), and per-print flow dynamics checks. Expect **~10 automated routines and 5–20 minutes between "press print" and first layer** — that's normal, not broken ([Makers101 H2C guide](https://makers101.com/bambu-lab-h2c/)).
 
-What the printer does NOT auto-tune: per-filament **flow rate** and print temperature for third-party filaments. That's our job (Level 1, below).
+What the printer does NOT auto-tune: per-filament **flow rate** (how much plastic the nozzle pushes out) and print temperature for third-party filaments. That's our job (Level 1, below).
 
 ### Print-time cheat sheet (for planning sessions)
 
@@ -86,7 +105,7 @@ Planning rules: add 5–20 min of pre-print calibration to every job, keep dayti
 
 ## 2. Bambu Studio learning path (Weeks 1–4)
 
-The concrete watch/read order. Everything else in the program builds on this.
+Bambu Studio is our **slicer** — the app that chops a 3D model into thousands of flat layers and writes the printer's instructions. Here's the concrete watch/read order. Everything else in the program builds on this.
 
 ### Week 1 — Bootcamp: slice, print, calibrate
 
@@ -135,15 +154,25 @@ Backup/deeper Week 1 material: [official 15-episode "Get Started with Bambu Stud
 
 Five levels. Each level has specific skills, a named mini-project, and the program week where it lands. You can't skip levels — each one's certification (Section 4) unlocks the next.
 
+The whole climb at a glance:
+
+```mermaid
+flowchart LR
+    L1["Level 1 Slicer Pilot - slice it and print it"] --> L2["Level 2 Color Painter - paint models in the slicer"]
+    L2 --> L3["Level 3 Purge Scientist - cut waste and paint with layers"]
+    L3 --> L4["Level 4 Materials Engineer - mix bendy and stiff plastics"]
+    L4 --> L5["Level 5 Advanced Master - hidden magnets and dissolving supports"]
+```
+
 ### Level 1 — Slicer Pilot (Week 1)
 
 **Skills**
-- Import a raw STL/3MF, choose printer + filament presets, slice, read the Preview tab (time / filament / cost), send to printer.
+- Import a raw STL/3MF (the file formats models come in — STL is just the shape, 3MF adds colors and settings), choose printer + filament presets, slice, read the Preview tab (time / filament / cost), send to printer.
 - Explain what the H2C's automated pre-print routines do, and why "press print, wait 5–20 min" is normal.
 - Run a manual Flow Rate Pass 1 (9 blocks) for a new filament and pick the winner.
-- Layer-height tradeoffs: slice the same model at 0.28 draft / 0.20 standard / 0.12 fine and predict the time difference before slicing.
+- Layer-height tradeoffs (layer height = how thick each printed layer is — thin is smooth but slow, thick is ridged but fast): slice the same model at 0.28 draft / 0.20 standard / 0.12 fine and predict the time difference before slicing.
 
-**Mini-project: "Three Benchys."** Download a plain [Original 3D Benchy](https://makerworld.com/en/models/1123776-original-3d-benchy) (not a pre-sliced profile), slice and print at standard (~47–48 min), then draft, and compare against the [~13-min speed-profile Benchy](https://makerworld.com/en/models/40146-benchy-bambu-pla-basic). Log estimated vs actual times.
+**Mini-project: "Three Benchys."** A Benchy is the little tugboat the whole 3D printing world uses as a test print. Download a plain [Original 3D Benchy](https://makerworld.com/en/models/1123776-original-3d-benchy) (not a pre-sliced profile), slice and print at standard (~47–48 min), then draft, and compare against the [~13-min speed-profile Benchy](https://makerworld.com/en/models/40146-benchy-bambu-pla-basic). Log estimated vs actual times.
 
 **Tutorials:** Week 1 table above, especially the [Quick Start wiki](https://wiki.bambulab.com/en/software/bambu-studio/studio-quick-start) and [Flow Rate Calibration](https://wiki.bambulab.com/en/software/bambu-studio/calibration_flow_rate).
 
@@ -151,8 +180,8 @@ Five levels. Each level has specific skills, a named mini-project, and the progr
 
 **Skills**
 - All six painting tools; Fill with edge detection for cartoon-style models; **Height Range** for stripes and floor-by-floor building colors ([Color Painting Tool wiki](https://wiki.bambulab.com/en/software/bambu-studio/color-painting-tool), [Height Range quirks thread](https://forum.bambulab.com/t/color-painting-tool-height-range/143221)).
-- Per-object and per-part settings on a multi-object plate (different infill per object, supports on one object only).
-- Paint-on **fuzzy skin** (Studio 2.2+): brush texture onto only part of a model ([Fuzzy Skin wiki](https://wiki.bambulab.com/en/software/bambu-studio/parameter/fuzzy-skin), [2.2.0 release note](https://wiki.bambulab.com/en/software/bambu-studio/release/release-note-2-2-0), [video](https://www.youtube.com/watch?v=WqXcPIcTl10)).
+- Per-object and per-part settings on a multi-object plate: different infill per object (infill = the hidden honeycomb lattice inside a print), supports on one object only (supports = temporary scaffolding you snap off after).
+- Paint-on **fuzzy skin** — a setting that makes surfaces intentionally rough and grippy, free coolness (Studio 2.2+): brush texture onto only part of a model ([Fuzzy Skin wiki](https://wiki.bambulab.com/en/software/bambu-studio/parameter/fuzzy-skin), [2.2.0 release note](https://wiki.bambulab.com/en/software/bambu-studio/release/release-note-2-2-0), [video](https://www.youtube.com/watch?v=WqXcPIcTl10)).
 
 **Mini-projects:**
 - Matt: fill-paint a downloaded figure or a ~30-min multi-color keychain ([Simple Keychain Generator](https://makerworld.com/en/models/1134982-simple-keychain-generator-sample)).
@@ -164,9 +193,9 @@ Five levels. Each level has specific skills, a named mini-project, and the progr
 **Skills**
 - Filament-to-hotend mapping: read the auto-grouping, then manually remap and watch predicted waste change ([H2C Operation Guide](https://wiki.bambulab.com/en/h2c/manual/bambu-studio-h2c-operation)).
 - Slice-button grouping modes incl. **Filament-Saving Mode** ([Filament Grouping Strategy wiki](https://wiki.bambulab.com/en/software/bambu-studio/manual/dual-nozzles-slicing-filament-grouping)).
-- Prime tower Standard vs **Purge-Saving Mode**; per-nozzle flush-volume tables ([2.0 release note](https://wiki.bambulab.com/en/software/bambu-studio/release/release-note-2-0-0)).
-- HueForge filament painting: TD values, color-swap layers, 0.08 mm layers over a 0.16 mm base ([Tom's Hardware HueForge how-to](https://www.tomshardware.com/how-to/hugeforge-paint-with-3d-printer), [Bambu HueForge guide](https://wiki.bambulab.com/en/filament-acc/filament/hueforge-printing-guide), [Kevandram video](https://www.youtube.com/watch?v=J3JE0DefxX4), [HuePick beginner guide](https://huepick.app/articles/hueforge-basics/hueforge-printing-for-beginners)).
-- CMYK lithophanes: C/M/Y/W PLA recipe ([CMYK Lithophane Guide](https://wiki.bambulab.com/en/knowledge-sharing/CMYK-color-lithophane-printing-instructions), STL generator: [LithophaneMaker](https://lithophanemaker.com/Color%20Lithophane.html), walkthrough: [All3DP tutorial](https://all3dp.com/2/colorful-bambu-lab-lithophane-tutorial/)).
+- Prime tower Standard vs **Purge-Saving Mode**; per-nozzle flush-volume tables (flush = purge, the wasted color-change plastic) ([2.0 release note](https://wiki.bambulab.com/en/software/bambu-studio/release/release-note-2-0-0)).
+- **HueForge** filament painting — stacking a few super-thin filament colors so they blend into a full picture: TD values (TD = how much light a filament lets through), color-swap layers, 0.08 mm layers over a 0.16 mm base ([Tom's Hardware HueForge how-to](https://www.tomshardware.com/how-to/hugeforge-paint-with-3d-printer), [Bambu HueForge guide](https://wiki.bambulab.com/en/filament-acc/filament/hueforge-printing-guide), [Kevandram video](https://www.youtube.com/watch?v=J3JE0DefxX4), [HuePick beginner guide](https://huepick.app/articles/hueforge-basics/hueforge-printing-for-beginners)).
+- CMYK lithophanes — a lithophane is a photo turned into thickness (thin spots glow bright when you put light behind it), and CMYK means cyan, magenta, yellow + white filaments that mix like inkjet ink: C/M/Y/W PLA recipe ([CMYK Lithophane Guide](https://wiki.bambulab.com/en/knowledge-sharing/CMYK-color-lithophane-printing-instructions), STL generator: [LithophaneMaker](https://lithophanemaker.com/Color%20Lithophane.html), walkthrough: [All3DP tutorial](https://all3dp.com/2/colorful-bambu-lab-lithophane-tutorial/)).
 
 **Mini-projects:**
 - Both: **"Purge-Waste Science Fair"** — re-slice a familiar 4–6 color model three ways (all colors forced to one nozzle / default grouping / Filament-Saving Mode), record predicted waste + time for each, print the winner, weigh the actual purge on the kitchen scale, chart the grams saved.
@@ -176,10 +205,10 @@ Five levels. Each level has specific skills, a named mini-project, and the progr
 ### Level 4 — Materials Engineer (Week 5)
 
 **Skills**
-- TPU handling: dry first (AMS HT 75 C for 18 h recommended), no 0.2 mm nozzles, glue the plate ([TPU prep guide](https://wiki.bambulab.com/en/h2/h2d-tpu-printing-guide)).
+- TPU handling (TPU is the bendy, rubbery filament): dry first (AMS HT 75 C for 18 h recommended), no 0.2 mm nozzles, glue the plate ([TPU prep guide](https://wiki.bambulab.com/en/h2/h2d-tpu-printing-guide)).
 - Rigid + flexible in one print: TPU in the right hotend, **Beam Interlocking** to mechanically stitch TPU to PLA ([soft + hard multi-material guide](https://wiki.bambulab.com/en/h2/manual/soft-and-hard-filament-multi-material-printing-guide), [Beam Interlocking wiki](https://wiki.bambulab.com/en/software/bambu-studio/beam-interlocking)).
 - The PLA/PETG trick: they don't bond, so each is a free support **interface** for the other ([forum troubleshooting](https://forum.bambulab.com/t/petg-doesnt-adhere-to-petg-causes-blobs/135907)); material-combo limits: [H2D/H2C multi-material guide](https://wiki.bambulab.com/en/filament-acc/filament/h2d-filament-config-limit).
-- AMS 2 Pro drying schedules, RFID profiles, starting drying from Studio ([AMS 2 Pro drying guide](https://wiki.bambulab.com/en/ams-2-pro/manual/drying-function), [2.5.0 release note](https://wiki.bambulab.com/en/software/bambu-studio/release/release-note-2-5-0)).
+- AMS 2 Pro drying schedules, RFID profiles (RFID = the name-tag chip in Bambu spools that the AMS reads), starting drying from Studio ([AMS 2 Pro drying guide](https://wiki.bambulab.com/en/ams-2-pro/manual/drying-function), [2.5.0 release note](https://wiki.bambulab.com/en/software/bambu-studio/release/release-note-2-5-0)).
 
 **Mini-projects:**
 - Matt: PLA car or skateboard with TPU tires in one job, plus the [Multi-Material Fidget Cloth](https://makerworld.com/en/models/2378367-multi-material-fidget-cloth) or [Fidget Cubes](https://makerworld.com/en/models/2378728-multi-material-fidget-cubes).
@@ -189,9 +218,9 @@ Five levels. Each level has specific skills, a named mini-project, and the progr
 ### Level 5 — Advanced Multi-Material Master (Weeks 6–8)
 
 **Skills**
-- **Pause-at-height embedding**: Preview → drag layer slider → right-click → Add Pause; pick the layer that closes over the cavity; check magnet polarity and keep strong magnets away from the steel nozzle ([FettesPS pause guide](https://www.fettesps.com/how-to-add-a-pause-when-printing-in-bambu-studio/), [McGybeer tutorial](https://www.mcgybeer.xyz/tutorials/print-pause)).
-- **Dissolvable support interfaces**: PVA interface-only over PLA bulk supports (pair PVA with PLA, not PETG), warm-water dissolve ([PVA Printing Guide](https://wiki.bambulab.com/en/filament-acc/filament/pva-printing-guide), [Mecha's PVA guide for the H2D](https://forum.bambulab.com/t/guide-mechas-comprehensive-guide-to-pva-supports-for-the-h2d/183781)); BVOH as the faster-dissolving option ([BCN3D BVOH vs PVA](https://support.bcn3d.com/knowledge/bvoh-vs-pva)); breakaway alternative: [Support Filament Usage Guide](https://wiki.bambulab.com/en/filament/support).
-- Support-interface ironing + interface temperature parameter ([2.5.0 release note](https://wiki.bambulab.com/en/software/bambu-studio/release/release-note-2-5-0)).
+- **Pause-at-height embedding** — stop the print at a chosen layer, drop in a magnet or coin, and let the printer seal it inside forever: Preview → drag layer slider → right-click → Add Pause; pick the layer that closes over the cavity; check magnet polarity and keep strong magnets away from the steel nozzle ([FettesPS pause guide](https://www.fettesps.com/how-to-add-a-pause-when-printing-in-bambu-studio/), [McGybeer tutorial](https://www.mcgybeer.xyz/tutorials/print-pause)).
+- **Dissolvable support interfaces**: PVA is support plastic that dissolves in water, and the interface is the thin layer where supports touch the model. PVA interface-only over PLA bulk supports (pair PVA with PLA, not PETG), warm-water dissolve ([PVA Printing Guide](https://wiki.bambulab.com/en/filament-acc/filament/pva-printing-guide), [Mecha's PVA guide for the H2D](https://forum.bambulab.com/t/guide-mechas-comprehensive-guide-to-pva-supports-for-the-h2d/183781)); BVOH as the faster-dissolving option ([BCN3D BVOH vs PVA](https://support.bcn3d.com/knowledge/bvoh-vs-pva)); breakaway alternative: [Support Filament Usage Guide](https://wiki.bambulab.com/en/filament/support).
+- Support-interface ironing (ironing = the hot nozzle smooths a surface flat, like an iron on a shirt) + interface temperature parameter ([2.5.0 release note](https://wiki.bambulab.com/en/software/bambu-studio/release/release-note-2-5-0)).
 - Nozzle-size strategy: 0.2 mm for minifigures, 0.6/0.8 mm for big city tiles; multi-plate multi-day project management with Handy-app monitoring.
 
 **Mini-projects:**
@@ -211,7 +240,7 @@ The license Matt wants most: holders may **start pre-approved prints solo**.
 - [ ] Remove and reseat the build plate against the heatbed stoppers without touching the print surface with bare fingers
 - [ ] Remove a finished print and clear the plate completely
 - [ ] Start a Dad-pre-approved print from the printer screen or Handy app, and state the expected finish time
-- [ ] Explain the hot-parts rule (nozzle to 350 C, bed to 120 C) and keep hands out of the chamber while the gantry moves
+- [ ] Explain the hot-parts rule (nozzle to 350 C, bed to 120 C) and keep hands out of the chamber while the gantry (the fast-moving frame that carries the nozzle) moves
 - [ ] Know the stop rule: if the AI camera flags a failure or something looks wrong, pause the print and get Dad — never grab at a running print
 - [ ] Know what is NOT covered: no overnight/unattended starts, no new untested models, without Dad's sign-off
 
@@ -224,7 +253,7 @@ The license Matt wants most: holders may **start pre-approved prints solo**.
 
 ### AMS License (target: everyone, Week 4–5)
 - [ ] Load and unload a spool in the AMS 2 Pro without kinking filament; explain what RFID auto-recognition sets up
-- [ ] Check and report humidity/desiccant state; start a filament-drying run (from the unit or from Bambu Studio)
+- [ ] Check and report humidity/desiccant state (desiccant = the moisture-soaking beads in the AMS); start a filament-drying run (from the unit or from Bambu Studio)
 - [ ] Explain the filament-to-hotend grouping on a sliced multi-color print, and manually remap one filament
 - [ ] Show, with slicer screenshots, how Filament-Saving Mode changed predicted waste on a real model
 - [ ] Explain why TPU needs drying and special handling before it goes anywhere near the printer

@@ -4,17 +4,19 @@ One giant, ready-to-go menu of print and design ideas for the whole summer — f
 
 Part of the [Boaky Family Summer 3D Printing Program](00-overview.md).
 
+*Weird words? Check the [Decoder Ring](10-glossary.md).*
+
 ---
 
 ## How to use this bank
 
 1. **Filter by time first.** Got 90 minutes before dinner? Stay in ⚡ Quick Wins. Got a whole Saturday? Family Builds or a Showpiece. Long prints can run between sessions — Dad approves anything unattended or overnight.
-2. **Then filter by mood.** Want to *print something cool right now* → grab a download. Want to *make something yours* → grab a remix. Rainy and bored → 🌧️ design challenges need zero downloads.
-3. **The links ARE the photos.** We don't paste pictures here — click any link and the model page shows you exactly what it looks like, plus print profiles and comments from people who printed it.
-4. **Difficulty:** ⭐ = slice and press print. ⭐⭐ = settings to change, parts to assemble, or a real design step. ⭐⭐⭐ = multi-plate, multi-material, or serious design work.
-5. **Time = print + work, rough.** Multi-color prints on our H2C are much faster than on normal printers (the Vortek hotend-swap cuts most purging), but big models are still big. Trust the slicer's estimate over ours.
-6. **Safety, once:** hot nozzles (up to 350°C) and heated chamber — hands out until cooldown. Get Dad for print removal on stuck parts, flush cutters, magnets, and anything overnight. PLA/PETG/TPU only unless Dad sets up ventilation. No printed cups or utensils.
-7. **IP note:** Nintendo stuff is home-shelf only — never sell or re-upload it, and don't be shocked if a model vanishes. The better move is always "inspired-by" originals you design yourself.
+2. **Then filter by mood.** Want to *print something cool right now* → grab a download. Want to *make something yours* → grab a remix (taking someone's model and changing it to make it your own). Rainy and bored → 🌧️ design challenges need zero downloads.
+3. **The links ARE the photos.** We don't paste pictures here — click any link and the model page shows you exactly what it looks like, plus print profiles (ready-made print settings you can reuse) and comments from people who printed it.
+4. **Difficulty:** ⭐ = slice and press print (slicing = letting Bambu Studio turn a model into printer instructions). ⭐⭐ = settings to change, parts to assemble, or a real design step. ⭐⭐⭐ = multi-plate (too big for one print, so it prints in batches), multi-material (more than one kind of plastic in one print), or serious design work.
+5. **Time = print + work, rough.** Multi-color prints on our H2C are much faster than on normal printers — the Vortek system (the printer's tool-belt of 6 spare hotends it grabs instead of cleaning one nozzle) cuts most purging (the plastic wasted when switching colors) — but big models are still big. Trust the slicer's estimate over ours.
+6. **Safety, once:** hot nozzles (up to 350°C) and heated chamber — hands out until cooldown. Get Dad for print removal on stuck parts, flush cutters (the sharp snippers for trimming prints), magnets, and anything overnight. PLA/PETG/TPU only (the everyday, tough, and rubbery plastics) unless Dad sets up ventilation. No printed cups or utensils.
+7. **IP note** (IP = intellectual property — who legally owns characters and designs): Nintendo stuff is home-shelf only — never sell or re-upload it, and don't be shocked if a model vanishes. The better move is always "inspired-by" originals you design yourself.
 
 Cross-references: printer techniques live in [01-h2c-mastery.md](01-h2c-mastery.md), Peter's full track in [02-peter-city-studio.md](02-peter-city-studio.md), Matt's in [03-matt-toy-lab.md](03-matt-toy-lab.md), contest dates in [04-contests-and-community.md](04-contests-and-community.md).
 
@@ -245,6 +247,21 @@ Every one of these needs only a pencil, a browser, and the printer. Add the twis
 ---
 
 ## Idea-bank rules of thumb
+
+Stuck choosing? Follow the arrows:
+
+```mermaid
+flowchart TD
+    Q["How much time do you have?"] --> A["90 minutes before dinner"]
+    Q --> B["A whole Saturday"]
+    Q --> C["Rainy and bored"]
+    Q --> D["Want to make something YOURS"]
+    A --> E["Quick Wins"]
+    B --> F["Family Builds or a Showpiece"]
+    C --> G["Rainy day design challenges"]
+    D --> H["Your own track or any DESIGN row"]
+    Q --> I["Still stuck? Roll a die"]
+```
 
 - **Stuck choosing?** Roll a die: 1–2 Quick Win, 3 your track, 4 Soccer/House, 5 Showpiece, 6 Rainy-day challenge.
 - **Every download teaches something** — before you print, guess how the designer solved joints/overhangs/colors, then check in the slicer preview.

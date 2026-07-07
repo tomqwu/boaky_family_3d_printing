@@ -4,6 +4,8 @@ Your 8-week track: from printing cities to designing your own — ending with an
 
 Part of the [Boaky Family Summer 3D Printing Program](00-overview.md).
 
+*Weird words? Check the [Decoder Ring](10-glossary.md).*
+
 ---
 
 ## Where you're headed
@@ -12,9 +14,16 @@ You already printed an NYC skyline. That makes you a city *printer*. This summer
 
 1. **Print cities** (weeks 1–2) — run modular city systems built by real creators, learn how they solve tiling, scale, and color.
 2. **Remix cities** (weeks 2–3) — modify, rescale, recombine, and re-color other people's blocks until they're yours.
-3. **Design buildings** (weeks 3–5) — original buildings in Tinkercad, then real parametric CAD in Fusion 360.
-4. **Turn REAL city data into prints** (week 6) — pull actual OpenStreetMap buildings and real terrain into Bambu Studio. Print Manhattan. Print *our* neighborhood.
-5. **Design an original district** (weeks 7–8, capstone) — a multi-plate, multi-color district that you planned, zoned, and modeled yourself.
+3. **Design buildings** (weeks 3–5) — original buildings in Tinkercad (the free drag-blocks-together design app), then real parametric CAD in Fusion 360, the pro-level design app. Parametric means the design is controlled by numbers: change `floors = 10` to `floors = 40` and the whole building rebuilds itself.
+4. **Turn REAL city data into prints** (week 6) — pull actual buildings from OpenStreetMap (OSM for short — the free world map anyone can edit, like Wikipedia for maps) and real terrain into Bambu Studio. Print Manhattan. Print *our* neighborhood.
+5. **Design an original district** (weeks 7–8, capstone) — a multi-plate, multi-color district that you planned, zoned (zoning = a city's rulebook for what gets built where), and modeled yourself.
+
+The whole summer in one picture:
+
+```mermaid
+flowchart LR
+    A["1 Print cities"] --> B["2 Remix cities"] --> C["3 Design buildings"] --> D["4 Real city data"] --> E["5 Original district"]
+```
 
 Real planners do exactly this: [Planetizen — How 3D Printing and Modeling Are Revolutionizing Urban Planning](https://www.planetizen.com/blogs/104941-how-3d-printing-and-modeling-are-revolutionizing-urban-planning) shows cities using physical printed models so the public can actually see and argue about designs. Your family showcase in week 8 is a real planning ritual: the design review.
 
@@ -29,21 +38,21 @@ Camp rhythm all summer: Mon/Wed/Fri 60–90 min sessions, Sat big build (2–3 h
 
 - **Project 1:** Do the official Tinkercad guided city project — [3D Print Your Own City Skyline](https://www.tinkercad.com/projects/3D-Print-Your-Own-City-Skyline). It walks research → grid-paper sketch → model → print. You've printed a skyline; now you *make* one, even if it's just 5 tiny buildings.
 - **Project 2:** Family quick win — design a clog charm for the Printables Clog Charms contest #517 (closes Jul 12 — see [04-contests-and-community.md](04-contests-and-community.md)). A tiny building charm counts.
-- **Skills:** Bambu Studio slicing basics, plate layout, STL export from Tinkercad, printer anatomy (with [01-h2c-mastery.md](01-h2c-mastery.md)).
-- **Stretch:** Export your skyline as **OBJ** and assign a filament color per building in Bambu Studio — the workflow from this [Bambu forum thread on multi-color from Tinkercad](https://forum.bambulab.com/t/multi-color-from-tinkercad/26198).
+- **Skills:** Bambu Studio slicing basics, plate layout, STL export from Tinkercad (STL is the standard 3D model file — just the shape), printer anatomy (with [01-h2c-mastery.md](01-h2c-mastery.md)).
+- **Stretch:** Export your skyline as **OBJ** (a 3D file format that keeps each building as its own separate object) and assign a filament color per building in Bambu Studio — the workflow from this [Bambu forum thread on multi-color from Tinkercad](https://forum.bambulab.com/t/multi-color-from-tinkercad/26198).
 
 ### Week 2 (Jul 13–19) — Remix week: your first city on the table
 **Goal:** Print a working modular city system and start bending it to your will.
 
-- **Project 1:** Start [MINI-CITY — Modular Miniature City Blocks by Kit Crafters](https://makerworld.com/en/models/48423-mini-city-modular-miniature-city-blocks). Print the **fitment test profile first** (it teaches real printer tuning), then baseplates + a mix of houses, apartments, and towers. Its Bambu profiles include a color change right where each building starts — free AMS lesson.
+- **Project 1:** Start [MINI-CITY — Modular Miniature City Blocks by Kit Crafters](https://makerworld.com/en/models/48423-mini-city-modular-miniature-city-blocks). Print the **fitment test profile first** (it teaches real printer tuning), then baseplates + a mix of houses, apartments, and towers. Its Bambu profiles include a color change right where each building starts — free AMS lesson (the AMS is the printer's 4-spool filament vending machine).
 - **Project 2:** Print a few [GreebleCity tiles by Fisk400](https://www.printables.com/model/169411-greeblecity-set-01) — 1:2500 Manhattan-style tiles, fast and cheap, designed so repeats don't stand out. Sets [02](https://www.printables.com/model/169776-greeblecity-set-02), [03](https://www.printables.com/model/170751-greeblecity-set-03), [04](https://www.printables.com/model/170756-greeblecity-set-04), and [05 (skyscrapers, Thingiverse)](https://www.thingiverse.com/thing:4084000) expand it.
-- **Skills:** Modular tolerances, batch plating, remix basics (rescale, mirror, recombine in Bambu Studio), reading other designers' decisions.
+- **Skills:** Modular tolerances (the tiny air gaps that let separate printed parts actually fit together), batch plating, remix basics (rescale, mirror, recombine in Bambu Studio), reading other designers' decisions.
 - **Stretch:** Start [miniCITIES — Metropolis](https://makerworld.com/en/models/1264186-minicities-metropolis) — tiles inspired by iconic New York architecture on a customizable 2x2–7x7 grid. The direct sequel to your skyline print.
 
 ### Week 3 (Jul 20–26) — Original design I: your first building
 **Goal:** Design a building from scratch that fits a real system.
 
-- **Project 1:** Design your own **GreebleCity-compatible tile** in Tinkercad. Tiles are extruded blocks with rooftop "greebles" — perfect first CAD project with a real constraint: it must match Fisk400's footprint and 1:2500 scale so it drops into your printed downtown.
+- **Project 1:** Design your own **GreebleCity-compatible tile** in Tinkercad. Tiles are extruded blocks (flat outlines stretched straight up) with rooftop "greebles" (the little vents, boxes, and bumps that make a roof look busy and real) — perfect first CAD project with a real constraint: it must match Fisk400's footprint and 1:2500 scale so it drops into your printed downtown.
 - **Project 2:** Design a building for the MINI-CITY baseplate footprint — match the connector and scale so it clicks in next to the Kit Crafters originals.
 - **Skills:** Designing to a footprint/connector constraint, workplanes and grouping in Tinkercad, measuring printed parts with calipers. Level up with [HL ModTech's Tinkercad library](https://hlmodtech.com/tinkercad) (4,500+ videos by a retired middle-school tech teacher).
 - **Contest:** Printables Modular Drawer System #516 closes Jul 22 — a modular-systems design challenge that uses exactly the tiling skills you're learning ([04-contests-and-community.md](04-contests-and-community.md)).
@@ -52,13 +61,13 @@ Camp rhythm all summer: Mon/Wed/Fri 60–90 min sessions, Sat big build (2–3 h
 ### Week 4 (Jul 27–Aug 2) — Multi-color mastery: paint the city
 **Goal:** Master AMS color on city models — ground vs. building, zone colors, painted details.
 
-- **Project 1:** [New York City Lower Manhattan 3D Mini (MultiColor)](https://makerworld.com/en/models/1182902-new-york-city-lower-manhattan-3d-mini-multicolor) — built with "zero non-manifold edges and separated objects for easy coloring." A flagship H2C print and the multicolor upgrade of your skyline.
-- **Project 2:** Print [GreebleCity Set 01 — 2024 multicolor version](https://www.printables.com/model/702080-greeblecity-set-01-2024-version), Fisk400's remake made multi-color compatible. Compare purge waste between dual-nozzle assignments and AMS swaps.
+- **Project 1:** [New York City Lower Manhattan 3D Mini (MultiColor)](https://makerworld.com/en/models/1182902-new-york-city-lower-manhattan-3d-mini-multicolor) — built with "zero non-manifold edges and separated objects for easy coloring" (non-manifold = broken geometry that confuses the slicer — zero is what you want). A flagship H2C print and the multicolor upgrade of your skyline.
+- **Project 2:** Print [GreebleCity Set 01 — 2024 multicolor version](https://www.printables.com/model/702080-greeblecity-set-01-2024-version), Fisk400's remake made multi-color compatible. Compare purge waste — the plastic squeezed out and thrown away when switching colors — between dual-nozzle assignments and AMS swaps.
 - **Skills:** Bambu Studio color painting, per-object filament assignment, dual-nozzle color strategy, purge/waste science (log it in [07-build-log-template.md](07-build-log-template.md)).
 - **Stretch:** Redesign your week-3 building with **deliberate color-change layers** (stone base, glass tower, rooftop) and print it via the Tinkercad OBJ workflow.
 
 ### Week 5 (Aug 3–9) — New materials + Fusion 360 begins
-**Goal:** Graduate to real parametric CAD; print your first PETG functional part.
+**Goal:** Graduate to real parametric CAD; print your first functional part in PETG (the tough, slightly stretchy plastic).
 
 - **Project 1:** Set up [Autodesk Fusion for Personal Use](https://www.autodesk.com/products/fusion-360/personal) (free hobbyist license — Dad's account; note the 10-active-document limit) and start [Learn Fusion 360 in 30 Days — 2026 Edition by Product Design Online](https://productdesignonline.com/learn-autodesk-fusion-360-in-30-days-official-course/). Do days 1–3 this week. Bring a Tinkercad design across with the [Tinkercad → Fusion bridge](https://www.tinkercad.com/fusion).
 - **Project 2:** In Fusion, model a **dimensioned, interlocking city baseplate** — your capstone's foundation. Exact millimeters, real tolerances. Print it in PETG so it survives being handled all summer.
@@ -68,10 +77,10 @@ Camp rhythm all summer: Mon/Wed/Fri 60–90 min sessions, Sat big build (2–3 h
 ### Week 6 (Aug 10–16) — Real-world data: print actual cities
 **Goal:** Turn real maps and terrain into prints. This is the week your two obsessions fuse.
 
-- **Project 1:** Use [Map2Model](https://www.map2model.de/) to grab a slice of Lower Manhattan — it exports terrain, roads, buildings, water, and greenery as **separate colors** in 3MF, straight into Bambu Studio. Full workflow in the toolbox section below.
-- **Project 2:** "Why is the city *there*?" — print the terrain under NYC (the Hudson valley and harbor) with [TouchTerrain](https://touchterrain.geol.iastate.edu/), using vertical exaggeration so the geography pops.
+- **Project 1:** Use [Map2Model](https://www.map2model.de/) to grab a slice of Lower Manhattan — it exports terrain, roads, buildings, water, and greenery as **separate colors** in 3MF (the model file format that keeps colors and settings, not just the shape), straight into Bambu Studio. Full workflow in the toolbox section below.
+- **Project 2:** "Why is the city *there*?" — print the terrain under NYC (the Hudson valley and harbor) with [TouchTerrain](https://touchterrain.geol.iastate.edu/), using vertical exaggeration — stretching the height so hills actually look like hills — so the geography pops.
 - **Skills:** Map data → STL/3MF, terrain cleanup (the [Prusa maps-and-terrain guide](https://blog.prusa3d.com/how-to-print-maps-terrains-and-landscapes-on-a-3d-printer_29117/) covers the gotchas), scale math, multi-part color assignment.
-- **Family session:** magnet embedding with pause-at-height (get Dad) — magnets in your baseplates make district tiles snap together.
+- **Family session:** magnet embedding with pause-at-height — the printer stops at a chosen layer so you can drop magnets in, then seals them inside (get Dad) — magnets in your baseplates make district tiles snap together.
 - **Stretch:** Pull **our own neighborhood** (free up to 1 km²) from [CADmapper](https://cadmapper.com/) and print it as-is — it becomes the "before" model for a design challenge below.
 
 ### Week 7 (Aug 17–23) — Capstone build: your original district
@@ -100,10 +109,20 @@ cover all three map layers — [buildings](../projects/peter/osm-to-scad.py),
 [terrain](../projects/peter/terrain-to-scad.py), and [streets](../projects/peter/streets-to-scad.py) —
 and unlike the web tools below, you can read exactly how they work and ask Claude to change them.
 
+Not sure which tool? Follow the arrows:
+
+```mermaid
+flowchart TD
+    Q["What do you want to print?"] -->|buildings| A["osm-to-scad"]
+    Q -->|terrain| B["terrain-to-scad"]
+    Q -->|streets| C["streets-to-scad"]
+    Q -->|"all of it, extra fancy"| D["Map2Model website"]
+```
+
 | Tool | What it does | Difficulty | Link |
 |---|---|---|---|
 | **Map2Model** | Browser tool, no account/install: draw any area (rectangle/circle/polygon), get real OSM buildings + elevation, live 3D preview, export STL or **3MF with terrain/roads/buildings/water/greenery as separate colors** — drops straight into Bambu Studio for the AMS | ⭐ Easiest — start here | [map2model.de](https://www.map2model.de/) · [Fabbaloo review](https://www.fabbaloo.com/news/map2model-offers-accessible-way-to-generate-cityscapes-for-3d-printing) |
-| **TouchTerrain** | Iowa State's free web app: draw a box anywhere on Earth, set print size, resolution, and **vertical exaggeration**, download STL/OBJ terrain. Handles the GIS math for you | ⭐ Easy | [touchterrain.geol.iastate.edu](https://touchterrain.geol.iastate.edu/) · [GitHub](https://github.com/ChHarding/TouchTerrain_for_CAGEO) |
+| **TouchTerrain** | Iowa State's free web app: draw a box anywhere on Earth, set print size, resolution, and **vertical exaggeration**, download STL/OBJ terrain. Handles the GIS (map-software) math for you | ⭐ Easy | [touchterrain.geol.iastate.edu](https://touchterrain.geol.iastate.edu/) · [GitHub](https://github.com/ChHarding/TouchTerrain_for_CAGEO) |
 | **Terrain2STL** | Simpler terrain-only alternative: drop a box on the map, download STL. Uses SRTM3 data (~90 m resolution) from the 2000 Space Shuttle radar mission | ⭐ Easy | [jthatch.com/Terrain2STL](https://jthatch.com/Terrain2STL/) · [Instructables guide](https://www.instructables.com/Create-3D-Printed-Terrain-Maps-Using-Terrain2STL/) · [worked example](https://www.printables.com/model/292595-topo-tutorial-pentagon-area-terrain2stl) |
 | **CADmapper** | Converts OpenStreetMap/NASA/USGS data into **CAD-editable** files; any area up to 1 km² free. Raw export needs cleanup (solid base under terrain) — the go-to when you want to *modify* the buildings, not just print them | ⭐⭐ Medium (Dad-assisted afternoon) | [cadmapper.com](https://cadmapper.com/) · [Prusa walkthrough](https://blog.prusa3d.com/how-to-print-maps-terrains-and-landscapes-on-a-3d-printer_29117/) |
 | **More routes** | The master list of every OSM-to-STL path, plus overviews | Reference | [OSM wiki: 3D printing OSM data](https://wiki.openstreetmap.org/wiki/3D_printing_OSM_data) · [MatterHackers overview](https://www.matterhackers.com/news/how-to-3d-print-a-map-of-anywhere-in-the-world) · [ArcGIS City Download Portal (advanced)](https://www.esri.com/arcgis-blog/products/js-api-arcgis/3d-gis/3d-print-a-city-creation-and-export-of-a-3d-object-feature-layer-using-arcgis-city-download-portal) |
@@ -132,10 +151,10 @@ You're 13, which means you skip the kiddie pool fast and land in real CAD by wee
 
 How to make prints teach real planning:
 
-- **Zoning:** the [Modular Mini City Planning Kit by z0hra1n](https://www.printables.com/model/1625475-modular-mini-city-planning-kit) was built for exactly this — residential, retail, institutional, hospital, and landmark typologies meant to be arranged and re-arranged. Print each zone type in its own filament color (residential = yellow, commercial = red — like real zoning maps) and re-zone a grid until it works.
+- **Zoning:** the [Modular Mini City Planning Kit by z0hra1n](https://www.printables.com/model/1625475-modular-mini-city-planning-kit) was built for exactly this — residential, retail, institutional, hospital, and landmark typologies (planner-speak for building types) meant to be arranged and re-arranged. Print each zone type in its own filament color (residential = yellow, commercial = red — like real zoning maps) and re-zone a grid until it works.
 - **Density & walkability:** house the same population in GreebleCity towers vs. MINI-CITY houses and measure the footprint each needs — density made physical. Core ideas (single-use zoning → car dependence; zoning can *create* walkability): [Planetizen's walkability course topic](https://courses.planetizen.com/topic/walkability).
-- **Transit:** the [Modular City Road Network](https://makerworld.com/en/models/1368003-modular-city-road-network) is a 1:64 support-free road system with bus stops, roundabouts, curves, parking, and a bridge (print segments upside-down on Textured PEI for an asphalt finish — and yes, it fits Matt's Hot Wheels, so trade). For NYC inspiration: [Project Subway NYC station models](http://www.projectsubwaynyc.com/3d-models), the [Interactive Manhattan Subway Map on Hackaday.io](https://hackaday.io/project/202488-manhattan-subway-map) (1 m printed Manhattan, each line in its official color, fiber-optic live trains), and the Printables [subway tag](https://www.printables.com/tag/subway).
-- **Scale — think like a planner:** pros use 1:200 / 1:500 / 1:1000 ([Blueprint Models](https://www.blueprintmodels.com/portfolio-types/urban-building-development-architectural-scale-model/)); rules of thumb: 1:500 = block detail, 1:1000 = districts, 1:2000 = city overviews ([QZY Models](https://www.qzymodels.com/what-is-the-right-scale-for-urban-planning-models/), [ArchDaily on scales](https://www.archdaily.com/904882/understanding-and-using-architectural-scales)). Hobby anchors: 1:2500 (GreebleCity), 1:160 (N scale), 1:220 (Z scale), 1:64 (Hot Wheels roads).
+- **Transit:** the [Modular City Road Network](https://makerworld.com/en/models/1368003-modular-city-road-network) is a 1:64 support-free road system with bus stops, roundabouts, curves, parking, and a bridge (print segments upside-down on Textured PEI — the printer's rough-surface build plate — for an asphalt finish — and yes, it fits Matt's Hot Wheels, so trade). For NYC inspiration: [Project Subway NYC station models](http://www.projectsubwaynyc.com/3d-models), the [Interactive Manhattan Subway Map on Hackaday.io](https://hackaday.io/project/202488-manhattan-subway-map) (1 m printed Manhattan, each line in its official color, fiber-optic live trains), and the Printables [subway tag](https://www.printables.com/tag/subway).
+- **Scale — think like a planner:** pros use 1:200 / 1:500 / 1:1000 ([Blueprint Models](https://www.blueprintmodels.com/portfolio-types/urban-building-development-architectural-scale-model/)); rules of thumb: 1:500 = block detail, 1:1000 = districts, 1:2000 = city overviews ([QZY Models](https://www.qzymodels.com/what-is-the-right-scale-for-urban-planning-models/), [ArchDaily on scales](https://www.archdaily.com/904882/understanding-and-using-architectural-scales)). Hobby anchors: 1:2500 (GreebleCity), 1:160 (N scale — the classic model-train size), 1:220 (Z scale — even tinier trains), 1:64 (Hot Wheels roads).
 
 ### Mini design challenges
 
@@ -159,8 +178,8 @@ How to make prints teach real planning:
 | Scale | What it gives you | Trade-off |
 |---|---|---|
 | **1:2500** | GreebleCity-compatible; a whole district on 2–3 plates | Tiny detail, blocky buildings |
-| **1:1000** | The professional "district" scale; readable streets + massing | ~4–6 plates for a real district |
-| **1:500** | Block-level detail: facades, street furniture, transit stops | Only 1–2 blocks fit the project; most modeling work |
+| **1:1000** | The professional "district" scale; readable streets + massing (the basic shapes and sizes of buildings) | ~4–6 plates for a real district |
+| **1:500** | Block-level detail: facades (building fronts), street furniture, transit stops | Only 1–2 blocks fit the project; most modeling work |
 
 Do the math before choosing: a real NYC block is about 80 m x 274 m — compute its printed size at 1:500 vs 1:2500 and check what fits the plate. Write one sentence justifying your choice; real model shops do exactly this ([QZY scale guide](https://www.qzymodels.com/what-is-the-right-scale-for-urban-planning-models/)).
 

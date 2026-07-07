@@ -15,14 +15,15 @@ both kids can enter this week with prints they already know how to run.
 *Remix spark: print Matt's flexi snake in wall-matching colors and photograph it "hiding" along the baseboard.*
 
 **⚽ World Cup 2026 Fidget Ball (MakerWorld)**
-A segmented, deformable kinetic ball in the World Cup 2026 design — it shifts and
-morphs in your hands. This is Matt's two favorite things (soccer + fidgets) in one
+A segmented, deformable kinetic ball (kinetic = a print whose whole point is to move)
+in the World Cup 2026 design — it shifts and morphs in your hands. This is Matt's two favorite things (soccer + fidgets) in one
 print, and it's trending right now with the tournament on.
 → [makerworld.com/en/models/2940779-world-cup-2026-fidget-ball](https://makerworld.com/en/models/2940779-world-cup-2026-fidget-ball)
 *Remix spark: study its segment trick, then apply it to the squishy-ball code for a hybrid.*
 
 **🏗️ Generative 3D Floor Plans (MakerWorld)**
-A model that *generates* building floor plans — procedural architecture, printable.
+A model that *generates* building floor plans — procedural architecture, meaning the
+computer invents the design from rules plus randomness. And it's printable.
 For Peter this is the missing link between his skyline-generator (random outsides)
 and real buildings (designed insides).
 → [makerworld.com/en/models/2746484-generative-3d-floor-plans](https://makerworld.com/en/models/2746484-generative-3d-floor-plans)

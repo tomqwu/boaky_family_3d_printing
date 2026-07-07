@@ -4,6 +4,8 @@ Claude knows about our family, our printer, and our summer program — it reads
 `CLAUDE.md` at the start of every session. You don't need to re-explain who you are.
 Just say your name and ask.
 
+*Weird words? Check the [Decoder Ring](../program/10-glossary.md).*
+
 ## Good ways to start
 
 - **"I'm Matt. My flexi dragon's legs fused together. What went wrong?"**

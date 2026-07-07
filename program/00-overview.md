@@ -3,6 +3,8 @@
 **Eight weeks, one Bambu Lab H2C, three makers.** July 6 – August 30, 2026.
 This is the master schedule; everything else in [`program/`](.) hangs off it.
 
+*Weird words? Check the [Decoder Ring](10-glossary.md).*
+
 ## The goal
 
 Start of summer: we can download models and print them in multiple colors.
@@ -18,10 +20,27 @@ family of makers who can run every capability this printer has.
 | **Matt (10)** | [Toy Lab](03-matt-toy-lab.md) — toys, mechanisms, TPU | Original tabletop soccer game |
 | **Dad** | [H2C Mastery](01-h2c-mastery.md) — every advanced technique, safety, maintenance | Family showcase + published models |
 
+A **capstone** is the big final project that uses everything you learned all
+summer. **Multi-plate** means a model too big to print in one go — it prints as
+several plates that fit together into one build.
+
 Everyone does the shared **skills ladder** in [01-h2c-mastery.md](01-h2c-mastery.md);
 the tracks are where each person points those skills at what they love.
 
 ## The 8-week map
+
+The whole summer at a glance — each week builds on the one before:
+
+```mermaid
+flowchart LR
+  W1["Week 1 Bootcamp"] --> W2["Week 2 Remix"]
+  W2 --> W3["Week 3 First designs"]
+  W3 --> W4["Week 4 Multi-color"]
+  W4 --> W5["Week 5 New materials"]
+  W5 --> W6["Week 6 Real data and mechanisms"]
+  W6 --> W7["Week 7 Capstones"]
+  W7 --> W8["Week 8 Showcase"]
+```
 
 | Week | Dates | Theme | Shared focus | Contest anchor* |
 |---|---|---|---|---|
@@ -56,7 +75,8 @@ homework. Off-plan excitement wins; grab something from the
 ## Standing rules
 
 1. **Safety:** the nozzle hits 350°C and the bed 120°C. Nothing comes off the plate
-   until the bed cools. Hands out of the chamber while the gantry moves. Repairs,
+   until the bed cools. Hands out of the chamber while the gantry — the fast-moving
+frame that carries the nozzle — is moving. Repairs,
    nozzle work, and anything with blades or solvents = Dad. Details in
    [08-troubleshooting.md](08-troubleshooting.md).
 2. **Failures are data.** Every failed print gets a photo and a line in the
@@ -101,4 +121,5 @@ homework. Off-plan excitement wins; grab something from the
 | [07-build-log-template.md](07-build-log-template.md) | Weekly log template |
 | [08-troubleshooting.md](08-troubleshooting.md) | Failure playbook, H2C quirks, maintenance |
 | [09-gifts-and-occasions.md](09-gifts-and-occasions.md) | The Gift Machine: birthdays, holidays, personalization playbook |
+| [10-glossary.md](10-glossary.md) | The Decoder Ring: every printer word, explained like a human |
 | [../projects/](../projects/README.md) | Starter OpenSCAD designs — printable code, editable by Claude |

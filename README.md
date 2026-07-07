@@ -21,6 +21,7 @@ An 8-week, camp-style curriculum (July 6 – August 30, 2026).
 | 📓 [Build log template](program/07-build-log-template.md) | Copy to `logs/` weekly |
 | 🚑 [Troubleshooting](program/08-troubleshooting.md) | When prints go wrong |
 | 🎁 [The Gift Machine](program/09-gifts-and-occasions.md) | Birthday & holiday gift playbook |
+| 🔍 [Decoder Ring](program/10-glossary.md) | Every printer word, explained like a human |
 | 💻 [Sample projects](projects/README.md) | Starter OpenSCAD designs — code you can print |
 
 ## 🤖 Using this repo with Claude

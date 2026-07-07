@@ -4,6 +4,8 @@ A 3D printer turns you into the person whose gifts nobody forgets. This is the
 family playbook for gift printing: what to make for whom, how to personalize it,
 and when to start. Part of the [program](00-overview.md).
 
+*Weird words? Check the [Decoder Ring](10-glossary.md).*
+
 ## Why printed gifts win
 
 A $3-in-filament gift you designed beats a $30 store gift, because it says
@@ -15,14 +17,30 @@ below leans on that.
 | Base project | Gift version |
 |---|---|
 | [name-keychain](../projects/matt/name-keychain.scad) | Friend's name, team number, inside joke. 15 minutes, always lands. |
-| [photo-lithophane](../projects/family/photo-lithophane.scad) | A photo *with* the birthday person — glows in front of a lamp. The premium move. |
-| [magnet-coaster](../projects/family/magnet-coaster.scad) | Their initial embossed, magnets inside so it snaps to the fridge. |
+| [photo-lithophane](../projects/family/photo-lithophane.scad) | A photo *with* the birthday person, printed as a lithophane — a photo turned into print thickness that glows in front of a lamp. The premium move. |
+| [magnet-coaster](../projects/family/magnet-coaster.scad) | Their initial embossed (raised out of the surface), magnets inside so it snaps to the fridge. |
 | [gyro-fidget](../projects/matt/gyro-fidget.scad) | Printed in their favorite colors. Fidget people treasure fidgets. |
-| [skyline-generator](../projects/peter/skyline-generator.scad) | Set `seed` to their birth year — "this is YOUR city, seed 2013." |
+| [skyline-generator](../projects/peter/skyline-generator.scad) | Set `seed` (the number that decides which random city you get) to their birth year — "this is YOUR city, seed 2013." |
 | [streets-to-scad](../projects/peter/streets-to-scad.py) | Their neighborhood (or grandparents' hometown) as a map tile. Jaw-dropper. |
 | [terrain-to-scad](../projects/peter/terrain-to-scad.py) | The mountain they hiked / lake they fish / place they honeymooned. |
-| [squishy-ball](../projects/matt/squishy-ball.scad) | TPU, in team colors, for any soccer friend. |
+| [squishy-ball](../projects/matt/squishy-ball.scad) | TPU (the rubbery, squishy filament), in team colors, for any soccer friend. |
 | [gift-box](../projects/family/gift-box.scad) | The box the gift goes IN — sliding lid, their name on top. |
+
+Stuck on where to start? Follow the arrows:
+
+```mermaid
+flowchart TD
+    Q["Who is the gift for"] --> FR["A friend"]
+    Q --> MOM["Mom"]
+    Q --> DAD["Dad"]
+    Q --> GP["Grandparents"]
+    Q --> T["A teacher"]
+    FR --> FRG["Fidget or keychain in their colors"]
+    MOM --> MOMG["Lithophane night light"]
+    DAD --> DADG["Desk organizer sized to his desk"]
+    GP --> GPG["Hometown map tile"]
+    T --> TG["Name desk plaque"]
+```
 
 ## Gift ideas by person
 
@@ -38,8 +56,8 @@ fake history (funnier than it sounds).
 plan a week ahead) → vase from Make My Vase in a color matching a real room →
 coaster set, one initial each → jewelry tray with a magnet-closing lid.
 
-**For Dad:** desk organizer measured with calipers to fit HIS desk mess →
-headphone stand → the "World's Okayest Printer Operator" trophy (gold silk PLA).
+**For Dad:** desk organizer measured with calipers (the precise pinch-to-measure tool) to fit HIS desk mess →
+headphone stand → the "World's Okayest Printer Operator" trophy (gold silk PLA — the shiny metallic-look filament).
 
 **For grandparents:** their hometown neighborhood via streets-to-scad or
 [Map2Model](https://www.map2model.de/) → lithophane of the grandkids →
@@ -59,7 +77,7 @@ a geography teacher — legendary).
 | ___ | Matt's birthday | — | (Peter designs something. Secret.) |
 | ___ | Grandparents' birthdays | 10 days before (shipping!) | Hometown map |
 | Early Sep | Teacher gifts | Last week of August | Desk plaque |
-| Oct 31 | Halloween | mid-Oct | Glow-PLA pumpkins, costume props |
+| Oct 31 | Halloween | mid-Oct | Glow-PLA (glow-in-the-dark filament) pumpkins, costume props |
 | Late Nov | Thanksgiving | 1 week before | Place-card holders with guest names |
 | Dec | Ornament season | **start Nov!** | Personalized ornaments — one per family member per year, dated. Start the tradition this year. |
 | Feb 14 | Valentine's | 1 week before | Heart boxes (gift-box remix) |
@@ -69,9 +87,9 @@ Fill in the blanks — then the printer never misses a birthday again.
 
 ## The gift quality bar (higher than normal prints)
 
-- [ ] **No visible failures.** Reprint rather than gift a stringy print. Seam position matters: hide it on the back (Bambu Studio → seam settings).
+- [ ] **No visible failures.** Reprint rather than gift a stringy print. The seam — the faint line where each layer starts and stops — matters: hide it on the back (Bambu Studio → seam settings).
 - [ ] **Personalized** — a name, a date, a place, a color they love. No generic prints as gifts.
-- [ ] **Deburred and clean** — no brim crumbs, no wisps. Get Dad for blade work.
+- [ ] **Deburred and clean** — sharp edges shaved smooth, no crumbs from the brim (the extra ring around the base), no wisps. Get Dad for blade work.
 - [ ] **Boxed** — print a [gift-box](../projects/family/gift-box.scad) with their name on the lid. The box doubles the gift.
 - [ ] **Signed** — "designed & printed by Matt, 2026" on the bottom in 1mm embossed text. That's the part they keep forever.
 - [ ] **Started early** — gift prints fail at 90% the night before. One week buffer, always.
@@ -79,7 +97,7 @@ Fill in the blanks — then the printer never misses a birthday again.
 ## Secret-print protocol 🤫
 
 Gifts for people in this house need stealth: print during school-run windows,
-store WIP in the filament cabinet, and name the file something boring like
+store WIP (works in progress) in the filament cabinet, and name the file something boring like
 `calibration-test-7.3mf`. Claude will keep your secret if you ask a question
 about it in the Q&A — but the QA-LOG is public to the family, so say
 "log this as 'a gift project'" and Claude will keep the log entry vague.

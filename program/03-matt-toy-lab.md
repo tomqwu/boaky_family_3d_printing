@@ -4,6 +4,8 @@
 
 Part of the [Boaky Family Summer 3D Printing Program](00-overview.md).
 
+*Weird words? Check the [Decoder Ring](10-glossary.md).*
+
 > 💻 **Code you can print:** every stage of this track has a matching OpenSCAD
 > starter in [`projects/`](../projects/LEARNING-PATH.md) — the flexi snake, gyro
 > fidget, ball-joint figure, TPU squishy ball, and your penalty-shootout capstone
@@ -17,11 +19,18 @@ Right now you can pick a cool model and print it. By the end of August you'll be
 
 The plan, in one line each:
 
-1. **Print** the best toys on the internet — flexi dragons, fidget spinners, wind-up cars — and figure out *how* they work.
+1. **Print** the best toys on the internet — flexi dragons (flexi = a toy made of lots of tiny printed hinges, so it flops and curls), fidget spinners, wind-up cars — and figure out *how* they work.
 2. **Remix** them — resize, recolor, combine, make them yours.
 3. **Design** your own toys in Tinkercad, with real moving joints.
-4. **Master the mechanisms** toy engineers actually use (hinges, snap-fits, ball joints, rubber-band power).
-5. **Build the capstone:** a full tabletop soccer game, multi-color, multi-plate — finished right as the 2026 World Cup is happening. 🏆⚽
+4. **Master the mechanisms** toy engineers actually use (hinges, snap-fits — parts that click together like LEGO — ball joints like an action figure's shoulder, rubber-band power).
+5. **Build the capstone** — your big finale project: a full tabletop soccer game, multi-color, multi-plate (too big for one print, so it prints in batches) — finished right as the 2026 World Cup is happening. 🏆⚽
+
+The whole journey in one picture:
+
+```mermaid
+flowchart LR
+    A["Print cool toys"] --> B["Remix them"] --> C["Design your own"] --> D["Learn the joints"] --> E["Build your soccer game"]
+```
 
 Rhythm every week: Mon/Wed/Fri sessions (60–90 min), Saturday big build (2–3 hrs), Sunday show-and-tell. Long prints run overnight **only after Dad approves them**. Log everything in your [build log](07-build-log-template.md).
 
@@ -34,10 +43,10 @@ Rhythm every week: Mon/Wed/Fri sessions (60–90 min), Saturday big build (2–3
 **Goal:** learn the printer and Bambu Studio (with the whole family — see [H2C Mastery](01-h2c-mastery.md)), and get a "whoa, it MOVES" toy off the plate on day one.
 
 **Projects:**
-- [Articulating Flexi Penguin by Little Mac Designs](https://makerworld.com/en/models/964766-articulating-flexi-penguin-print-in-place) — beginner-friendly, no supports, walks off the plate already articulated.
+- [Articulating Flexi Penguin by Little Mac Designs](https://makerworld.com/en/models/964766-articulating-flexi-penguin-print-in-place) — beginner-friendly, no supports (the throwaway scaffolding some prints need), walks off the plate already articulated — meaning its joints already move, no assembly.
 - [PrintMon Maker](https://forum.bambulab.com/t/introducing-makerlab-printmon-maker/95537) in Bambu's [MakerLab](https://makerworld.com/en/makerlab) — type or draw a creature idea and it generates a printable multi-color monster. Use Dad's account.
 
-**Skills:** slicing, plate layout, AMS color assignment, your first tiny Tinkercad design ([tinkercad.com/learn](https://www.tinkercad.com/learn)), plus the family's Clog Charms contest entry (closes Jul 12 — see [contests](04-contests-and-community.md)).
+**Skills:** slicing (letting Bambu Studio chop a model into layers and write the printer's instructions), plate layout, AMS color assignment (the AMS is the box that holds 4 spools and feeds the printer), your first tiny Tinkercad design ([tinkercad.com/learn](https://www.tinkercad.com/learn)), plus the family's Clog Charms contest entry (closes Jul 12 — see [contests](04-contests-and-community.md)).
 
 **Stretch:** print the [Flexi Baby Shark](https://makerworld.com/en/models/2416792-flexi-baby-shark-print-in-place-articulated-toy) and time how fast you can print + hand one to Mom.
 
@@ -46,7 +55,7 @@ Rhythm every week: Mon/Wed/Fri sessions (60–90 min), Saturday big build (2–3
 **Goal:** print the showpiece flexi toys and *study* them. How do the joints come off the plate already connected but not stuck? That trick runs the whole toy world.
 
 **Projects:**
-- [Flexi Pangolin](https://makerworld.com/en/models/1090887-flexi-pangolin) — nearly every scale moves; 100% print-in-place. The showpiece.
+- [Flexi Pangolin](https://makerworld.com/en/models/1090887-flexi-pangolin) — nearly every scale moves; 100% print-in-place (it comes off the printer already assembled and moving — no glue, no screws). The showpiece.
 - [Floppy Wolf](https://makerworld.com/en/models/853839-floppy-wolf-flexi-articulated-animal-pip) or the [Articulated Rexagon (T-rex + Dragon)](https://makerworld.com/en/models/1366309-articulated-rexagon-trex-dragon-flexi).
 
 **Skills:** scaling models up/down (what happens to the joints when you shrink 50%? Try it — that's a real experiment), recoloring in Bambu Studio, browsing like a pro ([flexi toys collection](https://makerworld.com/en/collections/1463901-flexi-toys), [articulated flexi collection](https://makerworld.com/en/collections/569350-articulated-flexi)).
@@ -61,7 +70,7 @@ Rhythm every week: Mon/Wed/Fri sessions (60–90 min), Saturday big build (2–3
 - [Tinkercad Lever Fidget Cube project](https://www.tinkercad.com/projects/FULLY-3D-Printable-Lever-Fidget-Cube-a-Fun-and-Edu) — official tutorial, fully printable mechanical fidget.
 - Follow the [Tinkercad Articulated Fish tutorial](https://www.youtube.com/watch?v=lCcYfagc1eQ) and then design your OWN flexi creature (snake? dragon? cleat-wearing armadillo?) using the [Instructables articulated-fidget method](https://www.instructables.com/Designing-Articulated-Fidgets-for-3D-Printing-Prin/).
 
-**Skills:** the golden number — **0.2–0.5 mm clearance** between moving parts. Too tight = fused solid. Too loose = floppy. Print small test pieces before the whole toy.
+**Skills:** the golden number — **0.2–0.5 mm clearance** (the tiny air gap between moving parts). Too tight = fused solid. Too loose = floppy. Print small test pieces before the whole toy.
 
 **Stretch:** the [Tinkercad Articulated Rattlesnake tutorial](https://www.youtube.com/watch?v=iTk5d9NciH8), or more fidget ideas from [Tinkercad's Weekend Fidget Projects](https://www.tinkercad.com/blog/weekend-projects-fidget-toy). Deep video library if you get stuck: [HL ModTech](https://hlmodtech.com/tinkercad).
 
@@ -73,13 +82,13 @@ Rhythm every week: Mon/Wed/Fri sessions (60–90 min), Saturday big build (2–3
 - Your contest capsule toy — designed in Tinkercad, painted in Bambu Studio, published from Dad's account.
 - [Planetary Gears Finger Fidget Spinners](https://makerworld.com/en/models/654785-planetary-gears-finger-fidget-spinners) — print-in-place gears, 6 variations. Study it, then color-paint your favorite.
 
-**Skills:** color painting on models, per-object filament assignment, purge/waste science (why the H2C's 7 melt paths mean almost zero poop — see [H2C Mastery](01-h2c-mastery.md)).
+**Skills:** color painting on models, per-object filament assignment (filament = the spooled plastic the printer draws with), purge/waste science — purge is the plastic wasted when switching colors (why the H2C's 7 melt paths mean almost zero poop — see [H2C Mastery](01-h2c-mastery.md)).
 
 **Stretch:** the [Two-in-One Gyro and Gear Fidget Spinner](https://makerworld.com/en/models/543356-two-in-one-gyro-and-gear-fidget-spinner) in your own 3-color scheme.
 
 ### Week 5 (Aug 3–9): TPU week — squishy, bouncy, flexible 🫠
 
-**Goal:** flexible filament. Full details in the [TPU week section](#tpu-week-printing-squishy) below.
+**Goal:** flexible filament — TPU, the rubbery plastic that prints bendy and bouncy. Full details in the [TPU week section](#tpu-week-printing-squishy) below.
 
 **Projects:**
 - [Soccer Football Airless Ball by 3DXAV](https://makerworld.com/en/models/208034-soccer-football-airless-ball) — the viral airless ball Bambu itself showed off. One piece, actually kickable.
@@ -87,7 +96,7 @@ Rhythm every week: Mon/Wed/Fri sessions (60–90 min), Saturday big build (2–3
 
 **Skills:** drying filament, slow flow rates, why soft plastic needs different rules.
 
-**Stretch:** [Articulated Octopus – TPU version](https://makerworld.com/en/models/1316116-articulated-octopus-tpu-version) — squishy head, flexi tentacles, and a sneaky slicer-settings lesson (concentric infill).
+**Stretch:** [Articulated Octopus – TPU version](https://makerworld.com/en/models/1316116-articulated-octopus-tpu-version) — squishy head, flexi tentacles, and a sneaky slicer-settings lesson: concentric infill (infill is the hidden pattern inside a print — printing it as rings makes the head squish evenly).
 
 ### Week 6 (Aug 10–16): Mechanisms week — joints, snaps, and stored energy
 
@@ -95,9 +104,9 @@ Rhythm every week: Mon/Wed/Fri sessions (60–90 min), Saturday big build (2–3
 
 **Projects:**
 - [Spring Car – Wind-up Mechanism 4x4](https://makerworld.com/en/models/1783036-spring-car-wind-up-mechanism-4x4) — fully printed wind-up car, even the wrench is printed; assembly rated for kids your age.
-- **The Lucky 13 project:** [LUCKY 13 Printable Jointed Figure by soozafone](https://www.printables.com/model/148367-lucky-13-printable-jointed-figure) (also [on MakerWorld](https://makerworld.com/en/models/183755-lucky-13-printable-jointed-figure)) — a snap-together poseable action figure that's *legally built to be remixed*. Print the armature, then start designing your own character skin for it (there's even a [Tinkercad version of the parts](https://www.tinkercad.com/things/k56yPDoaHgC-lucky-13-printable-jointed-figure)).
+- **The Lucky 13 project:** [LUCKY 13 Printable Jointed Figure by soozafone](https://www.printables.com/model/148367-lucky-13-printable-jointed-figure) (also [on MakerWorld](https://makerworld.com/en/models/183755-lucky-13-printable-jointed-figure)) — a snap-together poseable action figure that's *legally built to be remixed*. Print the armature (the jointed skeleton), then start designing your own character skin for it (there's even a [Tinkercad version of the parts](https://www.tinkercad.com/things/k56yPDoaHgC-lucky-13-printable-jointed-figure)).
 
-**Skills:** snap-fit joints, ball joints, hinge clearances, magnet embedding with pause-at-height (family session — get Dad, magnets are a swallow hazard for little kids visiting).
+**Skills:** snap-fit joints, ball joints, hinge clearances, magnet embedding with pause-at-height — the printer stops partway so you drop magnets in, then it seals them inside (family session — get Dad, magnets are a swallow hazard for little kids visiting).
 
 **Stretch:** design and print your own hinge + ball-joint **test coupon** (a little card of test joints at 0.2 / 0.3 / 0.4 / 0.5 mm clearance). Real engineers do exactly this.
 
@@ -137,7 +146,7 @@ This is what separates people who *print* toys from people who *design* them. Si
 **The three rules of print-in-place joints** (from the [Snapmaker guide](https://www.snapmaker.com/blog/3d-printed-hinges/) — memorize these):
 1. **0.2–0.3 mm** clearance = stiff friction fit. **0.4–0.5 mm** = spins free. **~0.3 mm** = the print-in-place sweet spot.
 2. Lay hinge pins **flat on the bed** so the layer lines run along the pin — pins printed standing up snap.
-3. PETG forgives joint over-bending better than PLA.
+3. PETG (the tough, slightly stretchy plastic) forgives joint over-bending better than PLA (the everyday plastic).
 
 More mechanism reading when you're ready: [Flashforge action-figure joints guide](https://www.flashforge.com/blogs/news/how-to-3d-print-action-figures), [Siraya Tech joints guide](https://siraya.tech/blogs/news/3d-print-joints), [3D Printerly articulated-prints guide](https://3dprinterly.com/how-to-make-articulated-3d-prints-design/).
 
@@ -147,11 +156,24 @@ More mechanism reading when you're ready: [Flashforge action-figure joints guide
 
 Straight talk, because you deserve the real answer.
 
-**Nintendo is the strictest company in the world about its characters.** They've taken down emulators, 550+ fan games, and thousands of projects — and Mario 3D models regularly vanish from model sites in takedown waves (background: [Wikipedia on Nintendo IP enforcement](https://en.wikipedia.org/wiki/Intellectual_property_protection_by_Nintendo)). For 3D printing specifically, Nintendo has mostly gone after people **selling** Mario prints, not families printing one for a shelf ([copyright guide for printers](https://theprofitableprinter.com/3d-printing-copyright-and-trademark-law/), [3D Printing Industry on Nintendo's policy](https://3dprintingindustry.com/news/nintendo-surprisingly-open-policy-3d-printing-intellectual-properties-33550/)).
+**Nintendo is the strictest company in the world about its characters.** They've taken down emulators (apps that play old Nintendo games on a computer), 550+ fan games, and thousands of projects — and Mario 3D models regularly vanish from model sites in takedown waves (background: [Wikipedia on Nintendo IP enforcement](https://en.wikipedia.org/wiki/Intellectual_property_protection_by_Nintendo)). For 3D printing specifically, Nintendo has mostly gone after people **selling** Mario prints, not families printing one for a shelf ([copyright guide for printers](https://theprofitableprinter.com/3d-printing-copyright-and-trademark-law/), [3D Printing Industry on Nintendo's policy](https://3dprintingindustry.com/news/nintendo-surprisingly-open-policy-3d-printing-intellectual-properties-33550/)).
 
 **Our house rules:**
 - Printing a Mario model for your own room: OK, but treat every link as "might disappear tomorrow."
 - Selling one, or uploading Mario stuff to MakerWorld: **never.** (Also: MakerWorld points only work with original or properly-licensed designs anyway.)
+
+The whole choice in one picture:
+
+```mermaid
+flowchart TD
+    A["Want a Mario print?"] --> B["Print a downloaded Mario model"]
+    A --> C["The cooler path: design your OWN character"]
+    B --> D["Home shelf only"]
+    D --> E["Never sell it or upload it"]
+    E --> F["And the link may vanish someday"]
+    C --> G["Yours forever, fully shareable"]
+    G --> H["Earns MakerWorld points"]
+```
 
 **What's actually findable right now** — go for the *mechanical* ones, they teach you something:
 - [Mario Piranha Plant by printchallenge](https://makerworld.com/en/models/1440271-mario-piranha-plant) — crank the handle, the mouth chomps. It's a mechanism lesson wearing a Mario costume. Best Mario print, period.
@@ -161,7 +183,7 @@ Straight talk, because you deserve the real answer.
 **Here's the part that's actually cooler.** Every professional toy designer you've ever heard of started by loving someone else's characters — then made their own. That's the whole job. "Inspired by Mario" — a chunky mustached hero, a plant monster, a power-up block universe with YOUR characters — is 100% legal, 100% shareable, earns MakerWorld points, and is *yours forever*. Nobody can take it down.
 
 Your original-character toolkit (all verified):
-- **[LUCKY 13 jointed figure](https://www.printables.com/model/148367-lucky-13-printable-jointed-figure)** — CC BY 4.0, explicitly built for remixing. Hundreds of designers have made custom character skins for this armature. You design the character; the joints are already engineered. Assembly walkthrough: [UncleJessy on TikTok](https://www.tiktok.com/@unclejessy4real/video/7078111922826120490).
+- **[LUCKY 13 jointed figure](https://www.printables.com/model/148367-lucky-13-printable-jointed-figure)** — CC BY 4.0 (a license that says: use and remix this freely, just credit the creator), explicitly built for remixing. Hundreds of designers have made custom character skins for this armature. You design the character; the joints are already engineered. Assembly walkthrough: [UncleJessy on TikTok](https://www.tiktok.com/@unclejessy4real/video/7078111922826120490).
 - **[PrintMon Maker](https://forum.bambulab.com/t/introducing-makerlab-printmon-maker/95537)** — generate your own Pokémon-*style* (not Pokémon!) creatures from a drawing or description.
 - **[Womp](https://womp.com/)** — free browser "digital clay" for sculpting original characters when Tinkercad boxes feel too blocky.
 
@@ -174,7 +196,7 @@ TPU is flexible filament — prints come out rubbery, bendy, bouncy. And your pr
 **The TPU rules on the H2C (non-negotiable — this stuff is fussy):**
 - [ ] **Dry the filament first.** TPU drinks water from the air and wet TPU prints like bubbly spaghetti — [Bambu TPU printing guide](https://wiki.bambulab.com/en/knowledge-sharing/tpu-printing-guide).
 - [ ] **Print SLOW.** Start around 3.2 mm³/s flow (same guide). A TPU print can take 3× longer. Patience.
-- [ ] **Nothing softer than 85A** on this printer (same guide). Bambu's [TPU 85A/90A](https://us.store.bambulab.com/products/tpu-85a-tpu-90a) — 90A = squishy, 95A = firmer bounce.
+- [ ] **Nothing softer than 85A** on this printer (same guide) — the A number is a squishiness score, lower = softer. Bambu's [TPU 85A/90A](https://us.store.bambulab.com/products/tpu-85a-tpu-90a) — 90A = squishy, 95A = firmer bounce.
 - [ ] **TPU feeds from the right setup, not through the AMS like normal filament** — Dad loads it per the [H2C filament printing guide](https://wiki.bambulab.com/en/h2c/h2c-filament-printing-guide).
 - [ ] Soft + hard combo prints follow Bambu's [soft/hard multi-material guide](https://wiki.bambulab.com/en/h2/manual/soft-and-hard-filament-multi-material-printing-guide) — "beam interlocking" in Bambu Studio mechanically locks TPU to PLA. Week 6–7 material, with Dad.
 - [ ] More technique: [MatterHackers TPU-on-Bambu guide](https://www.matterhackers.com/about/how-to-print-tpu-and-flexible-filament-on-your-bambu-3d-printer), video: [Mastering Flexible Filaments](https://www.youtube.com/watch?v=XmByOifzQcs).
@@ -210,7 +232,7 @@ World Cup 2026 is happening in North America **this exact summer** — your caps
 | [Mini Tabletop Football Game](https://makerworld.com/en/models/2952718-mini-tabletop-football-game) | Two-player arcade style | ⭐⭐⭐ |
 | [Finger Football Kit by GlennovitS 3D](https://makerworld.com/en/models/115700-finger-football-kit-soccer-game-on-the-table) / [Finger Football Board Game](https://makerworld.com/en/models/780194-finger-football-soccer-board-game) | Flick-the-ball board games | ⭐⭐ |
 
-**The rule that makes it a capstone: the game must contain original Matt-designed parts.** Recommended: **custom Subbuteo-style flick players in your own team's colors.** Study the [free Subbuteo team players STL](https://cults3d.com/en/3d-model/game/subbuteo-team-players) — 3 parts (player + base + grass cap) with 16 mm washers hidden inside the base for weight. That hidden-ballast trick (heavy base = low center of gravity = players that wobble but don't fall) is a genuinely pro design lesson. Then design YOUR team in Tinkercad. More flick-figure reference: [STLFinder subbuteo](https://www.stlfinder.com/3dmodels/subbuteo/).
+**The rule that makes it a capstone: the game must contain original Matt-designed parts.** Recommended: **custom Subbuteo-style flick players in your own team's colors** (Subbuteo is the classic flick-your-players tabletop soccer game). Study the [free Subbuteo team players STL](https://cults3d.com/en/3d-model/game/subbuteo-team-players) (STL is the file format 3D models come in) — 3 parts (player + base + grass cap) with 16 mm washers hidden inside the base for weight. That hidden-ballast trick (ballast = hidden weight down low; heavy base = low center of gravity = players that wobble but don't fall) is a genuinely pro design lesson. Then design YOUR team in Tinkercad. More flick-figure reference: [STLFinder subbuteo](https://www.stlfinder.com/3dmodels/subbuteo/).
 
 **Requirements checklist:**
 - [ ] A working game — playable match, goals countable, ball stays in play
