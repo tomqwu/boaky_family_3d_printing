@@ -20,6 +20,7 @@ An 8-week, camp-style curriculum (July 6 – August 30, 2026).
 | 🛒 [Shopping list](program/06-shopping-list.md) | Filament & tools, ordered by week |
 | 📓 [Build log template](program/07-build-log-template.md) | Copy to `logs/` weekly |
 | 🚑 [Troubleshooting](program/08-troubleshooting.md) | When prints go wrong |
+| 🎁 [The Gift Machine](program/09-gifts-and-occasions.md) | Birthday & holiday gift playbook |
 | 💻 [Sample projects](projects/README.md) | Starter OpenSCAD designs — code you can print |
 
 ## 🤖 Using this repo with Claude

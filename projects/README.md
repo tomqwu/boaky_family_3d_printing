@@ -23,6 +23,7 @@ Full week-by-week mapping: [**LEARNING-PATH.md**](LEARNING-PATH.md).
 | [`family/remix-pedestal.scad`](family/remix-pedestal.scad) | Everyone, week 2 | The remix move: `import()` any downloaded STL onto your own parametric base with your own title. |
 | [`family/photo-lithophane.scad`](family/photo-lithophane.scad) | Everyone, week 4 | A photo becomes thickness: grayscale PNG → backlit panel. Comes with `make-test-image.py` so it works out of the box. |
 | [`family/magnet-coaster.scad`](family/magnet-coaster.scad) | Everyone, week 6 | Pause-at-height embedding: sealed magnet pockets, with the pause height computed for you. Magnets = get Dad. |
+| [`family/gift-box.scad`](family/gift-box.scad) | Everyone, any week | A sliding-lid gift box with their name on top — pairs with the [gift playbook](../program/09-gifts-and-occasions.md). |
 | [`matt/name-keychain.scad`](matt/name-keychain.scad) | Matt, week 1 | Your first code-CAD: change one line, get your name in 3D. Variables, text, holes. |
 | [`matt/spinning-top.scad`](matt/spinning-top.scad) | Matt, week 3 | Design for physics: low + wide spins better than tall + narrow. Iterate and race them. |
 | [`matt/flexi-snake.scad`](matt/flexi-snake.scad) | Matt, week 3+ | A real print-in-place articulated flexi — the same joint trick as the flexi dragons you love, in ~130 lines you can read. |
