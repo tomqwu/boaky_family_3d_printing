@@ -5,6 +5,39 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-08
+
+**💸 Bambu's 4th Anniversary Sale — ⏰ ENDS JULY 15, prize draws Jul 9 & 16**
+Bambu's biggest sale ever: lowest-ever prices on filament and accessories, plus
+three prize draws where winners get their whole order refunded (next draws July 9
+and 16). Dad: this is the week to run the [shopping list](06-shopping-list.md) —
+it already says "order before July 15," and now we know why.
+→ [Bambu Lab 4th Anniversary announcement (official forum)](https://forum.bambulab.com/t/bambu-lab-4th-anniversary-countdown-subscribe-to-claim-your-exclusive-coupon/254843) · [press release](https://www.prnewswire.com/news-releases/bambu-lab-store-hits-record-low-prices--including-first-ever-discounts-on-p2s-h2s-and-h2c-302799627.html)
+
+**🔫 Double fidget drop: Ultimate Piston + Twist Egg (MakerWorld)**
+Two fresh print-in-place fidgets (print-in-place = comes off the printer already
+assembled and moving). The Piston prints in **25 minutes** using 7 grams of
+plastic — a perfect before-dinner print for Matt — and the Twist Egg expands and
+collapses in your hand like a tiny transformer.
+→ [Ultimate Piston Fidget Toy](https://makerworld.com/en/models/2752580-ultimate-piston-fidget-toy-print-in-place) · [Twist Fidget Egg](https://makerworld.com/en/models/2573436-twist-fidget-egg-print-in-place-toy)
+*Remix spark: a 25-minute print is the perfect speed test — race the clock, then study its joints for your own designs.*
+
+**🌍 3DcityLoader — another way to print any real city**
+A website that turns real city data into printable STL files (STL = the standard
+just-the-shape 3D print file) — same mission as Peter's own map scripts, different
+engine. Compare its output of our neighborhood against `streets-to-scad.py` and
+see who does it better: the website, or Peter's code.
+→ [3dcityloader.com](https://3dcityloader.com/en)
+*Remix spark: add the winner to the toolbox table in [MAP-TO-MODEL](../projects/peter/MAP-TO-MODEL.md).*
+
+**🏢 Empire State Building, Art Deco edition (MakerWorld)**
+A 161mm Empire State with the real tiered "wedding cake" structure — which exists
+because of the 1916 zoning rules Peter's track covers. Print it next to the week-3
+"recreate a real NYC building" challenge and check your math against a pro's model.
+→ [makerworld.com/en/models/1623548-empire-state-building](https://makerworld.com/en/models/1623548-empire-state-building)
+
+---
+
 ## 2026-07-07
 
 **🫥 MakerWorld "Hide & Seek" challenge — STARTS TODAY, ends Jul 27**
