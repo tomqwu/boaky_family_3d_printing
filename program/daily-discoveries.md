@@ -5,6 +5,32 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-09
+
+**🧮 ParamaCraft Lite — parametric design just landed in MakerLab**
+Bambu quietly added a parametric design tool (parametric = the design is controlled
+by numbers you change, like our OpenSCAD projects) right inside MakerLab, in the
+browser, no install. Peter: this is OpenSCAD's little cousin — try rebuilding one
+of your buildings in it and see which you like better.
+→ [MakerLab](https://makerworld.com/en/makerlab) · spotted in [All3DP's July roundup](https://all3dp.com/1/useful-cool-things-3d-print-ideas-3d-printer-projects-stuff/)
+
+**🌈 Flexi Articulated Rainbow Dragon (MakerWorld)**
+A new one-piece flexi dragon designed for rainbow/silk PLA (the shiny metallic-look
+filament) — the scales shift purple to teal to gold as it flops. Matt: this is the
+current king of the flexi genre you're studying in week 2.
+→ [makerworld.com/en/models/2599628-flexi-articulated-rainbow-dragon](https://makerworld.com/en/models/2599628-flexi-articulated-rainbow-dragon)
+*Remix spark: count its joints, then add one of its tricks to your flexi-snake code.*
+
+**🏛️ Scientists 3D-printed a playable 1,700-year-old Roman board game**
+Newcastle University scanned a Roman game found at a fort on Hadrian's Wall and
+printed a playable replica — proof that "print a museum" is a real thing people do.
+Family game night idea with a history twist; Peter, imagine doing this for a
+building instead of a game.
+→ [3DPrint.com news briefs, July 1 2026](https://3dprint.com/327898/3d-printing-news-briefs-7-1-2026/)
+*Remix spark: invent your own "ancient game of the Boaky civilization" — one tile, printed pieces, rules on an index card (idea bank #149).*
+
+---
+
 ## 2026-07-08
 
 **💸 Bambu's 4th Anniversary Sale — ⏰ ENDS JULY 15, prize draws Jul 9 & 16**
