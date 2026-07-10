@@ -5,6 +5,38 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-10
+
+**🎛️ Fidgetor — design a custom fidget spinner in your browser, zero CAD**
+A free tool on MakerWorld's crowdfunding page (crowdfunding = fans chip in money
+to help a creator finish a big project): drag sliders, pick shapes and colors,
+export a print-ready file. Matt: design one for each friend before you've even
+learned the code way — then compare it to building the same thing in Tinkercad.
+→ [MakerWorld Crowdfunding hub](https://makerworld.com/en/crowdfunding)
+*Remix spark: race the tools — Fidgetor vs your gyro-fidget code. Which spins longer?*
+
+**🐶 CuteFlexiMaker just dropped new flexi pets (Bulldog, Frenchie, Pug)**
+The "build your 3D pet" project released three new print-in-place dogs this month.
+Matt: study how a *product line* of flexi animals shares one joint system — that's
+exactly the trick behind your own flexi designs.
+→ [CuteFlexiMaker on MakerWorld](https://makerworld.com/en/crowdfunding/202-cutefleximaker-build-your-3d-pet/faq)
+
+**🏆 World Cup final watch-party kit — ⏰ the final is JULY 19, print this week**
+The move: a trophy-shaped candy bowl on the coffee table, desk trophies for
+predictions winners, and quick medal prints for halftime games. Gold silk PLA
+(the shiny metallic-look filament) makes them look real.
+→ [World Cup Trophy 2026](https://makerworld.com/en/models/2928020-world-cup-trophy-2026) · [Winner's Trophy](https://makerworld.com/en/models/2212991-fifa-world-cup-2026-winner-s-trophy) · [All3DP's party print guide](https://all3dp.com/1/3d-print-your-own-2026-world-cup-party-trophies-mascots-more/)
+*Remix spark: gift-box a mini trophy for whoever wins the family bracket (program/09).*
+
+**🤖 Scientists built an AI that designs whole city layouts**
+A real research paper in Nature's urban journal: an AI that generates street-and-
+block layouts for new neighborhoods. Peter — your skyline-generator does a baby
+version of this (rules + randomness = a city). Researchers just do it with more math.
+→ [AI-based urban layout generation (npj Urban Sustainability)](https://www.nature.com/articles/s42949-026-00369-2)
+*Remix spark: add a rule to skyline-generator.scad — "no two tall towers next to each other" — and you're doing their job.*
+
+---
+
 ## 2026-07-09
 
 **🧮 ParamaCraft Lite — parametric design just landed in MakerLab**
