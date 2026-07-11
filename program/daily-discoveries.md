@@ -5,6 +5,35 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-11
+
+**⏰ LAST CALL: Clog Charms contest closes TOMORROW (Jul 12, 23:59 UTC)**
+Matt's week-1 quick-win contest — if the charm design is sitting in Tinkercad,
+tonight is the night to print, photograph, and have Dad submit it.
+→ [printables.com/contest/517-clog-charms](https://www.printables.com/contest/517-clog-charms)
+
+**🌀 HelixCore — squeeze it and it SPINS (MakerWorld)**
+A squishy ball hiding a real mechanism: squeezing converts straight-down motion
+into spin, like a spinning top you never have to twist. Matt: this is your
+spinning-top physics and your squishy ball fused into one object — study it.
+→ [makerworld.com/en/models/2910956-helixcore-press-to-spin-squishy-ball](https://makerworld.com/en/models/2910956-helixcore-press-to-spin-squishy-ball)
+*Remix spark: can your spinning-top.scad grow a press-to-spin launcher? Ask Claude to help design the helix.*
+
+**🏟️ FIFA 2026 Stadiums series — SoFi Stadium, built from laser-scan data**
+A creator is printing the real World Cup stadiums using LiDAR (laser scanning
+that measures a building's exact shape, like radar but with light). Peter + Matt
+crossover alert: real-data architecture meets soccer, framed and display-ready.
+→ [makerworld.com/en/models/2749912-fifa-2026-stadiums-sofi-stadium-los-angeles](https://makerworld.com/en/models/2749912-fifa-2026-stadiums-sofi-stadium-los-angeles)
+*Remix spark: Peter — could osm-to-scad.py grab OUR local stadium's footprint? Try it.*
+
+**📅 Mechanical Calendar — a desk calendar with zero electronics**
+A printed perpetual calendar you click forward each morning — pure gears and
+cleverness. Great family build for the showcase shelf, and a preview of the
+mechanisms week 6 is about.
+→ [makerworld.com/en/models/2140135-mechanical-calendar](https://makerworld.com/en/models/2140135-mechanical-calendar)
+
+---
+
 ## 2026-07-10
 
 **🎛️ Fidgetor — design a custom fidget spinner in your browser, zero CAD**
