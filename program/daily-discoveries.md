@@ -5,6 +5,31 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-12
+
+**🚑 3D printers are helping earthquake survivors in Venezuela right now**
+After June's big earthquakes, makers there started printing medical splints,
+neck braces, and oxygen-mask connectors — and Bambu Lab donated $50,000 plus
+printers and 160 kg of filament to help. Worth knowing, both of you: the machine
+in our house is the same kind of machine saving people's summers over there.
+→ [3DPrint.com news briefs, July 11 2026](https://3dprint.com/328628/3d-printing-news-briefs-7-11-2026/)
+
+**🧱 LEGO just opened an innovation center with a 3D printing lab inside**
+The LEGO Group's first dedicated manufacturing innovation center includes an
+additive manufacturing center (additive manufacturing = the grown-up name for
+3D printing). Matt: the people who make your bricks are learning your hobby.
+→ [same news briefs](https://3dprint.com/328628/3d-printing-news-briefs-7-11-2026/)
+
+**🚝 Mini Train city dioramas — a working train IN the city model**
+A pair of dioramas (diorama = a mini 3D scene in a frame) where a tiny train
+actually runs through printed buildings — one classic city, one future city.
+Peter: this is transit + city modeling in one print, and a preview of what your
+capstone district could become with a moving part.
+→ [Mini Train — Functional City Diorama](https://makerworld.com/en/models/1114666-mini-train-functional-city-diorama) · [Future City version](https://makerworld.com/en/models/1227321-mini-train-future-city-diorama) · bonus: [Martin's Monorail, a Gridfinity train](https://makerworld.com/en/models/1196609-martin-s-monorail-gridfinity-train-v1-3)
+*Remix spark: add a train trench to your city-tile.scad — the "transit tile" idea from its footer just found its train.*
+
+---
+
 ## 2026-07-11
 
 **⏰ LAST CALL: Clog Charms contest closes TOMORROW (Jul 12, 23:59 UTC)**
