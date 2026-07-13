@@ -5,6 +5,31 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-13
+
+**🛠️ Bambu Studio 2.8 can now MAKE assembly instructions for you**
+The newest Bambu Studio adds an Assembly Guide tool: give it a multi-part design
+and it generates step-by-step visual instructions — including an exploded view
+(the drawing where parts float apart so you see how they stack). Peter: your
+multi-plate capstone district just got its own IKEA manual. Matt: same for the
+penalty-shootout kit.
+→ [Bambu Studio release notes (official wiki)](https://wiki.bambulab.com/en/software/bambu-studio/release) · [GitHub releases](https://github.com/bambulab/BambuStudio/releases)
+
+**🌀 Portal illusion desk toys — the barberpole trick in 3D**
+Spinning striped gears make it look like things are falling into a portal
+forever. It's an optical illusion (your brain reading motion that isn't there),
+it's mesmerizing, and the assembly is a great week-2 skills build.
+→ [Quadruple Portal Illusion Desk Toy](https://makerworld.com/en/models/592233-quadruple-portal-illusion-desk-toy-by-ada-cohen) · [Fabbaloo on the Dual Portal version](https://www.fabbaloo.com/news/design-of-the-week-dual-portal-desk-toy)
+*Remix spark: Matt — a portal in your team's colors; the stripes are just paint-in-Studio.*
+
+**⚙️ Gear Ball puzzles — a Rubik's cube made of gears**
+A sphere of interlocking gears where every twist scrambles the pattern — half
+puzzle, half fidget, all mechanism. Matt: after the gyro-fidget, this is the
+next boss level of "how does that even move?"
+→ [3DSPRO's Gear Ball guide](https://3dspro.com/resources/blog/cool-things-to-3d-print-gear-ball-3d-print) · [All3DP's fidget & clicker roundup](https://all3dp.com/2/3d-printed-fidget-toys-cube-gear-spinner/)
+
+---
+
 ## 2026-07-12
 
 **🚑 3D printers are helping earthquake survivors in Venezuela right now**
