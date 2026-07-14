@@ -5,6 +5,30 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-14
+
+**⏰ FINAL CALL: Bambu's anniversary sale ends TOMORROW (Jul 15)**
+Last chance for the lowest filament and accessory prices of the year — if
+anything from the [shopping list](06-shopping-list.md) is still in the cart,
+tonight's the night, Dad.
+→ [Bambu 4th Anniversary announcement](https://forum.bambulab.com/t/bambu-lab-4th-anniversary-countdown-subscribe-to-claim-your-exclusive-coupon/254843)
+
+**🚀 Stair Climbing Rover — print a Mars rover that actually climbs stairs**
+A robot built on the rocker-bogie suspension (the exact wheel system NASA's real
+Mars rovers use — six wheels on pivoting arms, so it crawls over anything).
+Designed for a Danish robotics competition, and it climbs real stairs. Needs
+motors and electronics, which makes it a get-Dad project — and a serious
+end-of-summer dream for both of you.
+→ [MakerWorld](https://makerworld.com/en/models/207575-stair-climbing-rover) · [Printables](https://www.printables.com/model/194299-stair-climbing-rover)
+*Remix spark: before the electronics, print ONE rocker-bogie arm and roll it over LEGO stairs by hand — you'll understand Mars missions in five minutes.*
+
+**📺 Browse fuel: "10 Insanely Cool 3D Prints You NEED to Print This July"**
+A fresh July video roundup — good couch viewing before Sunday show-and-tell,
+notebook in hand for the idea bank.
+→ [YouTube](https://www.youtube.com/watch?v=gVKa_Hp3fUE)
+
+---
+
 ## 2026-07-13
 
 **🛠️ Bambu Studio 2.8 can now MAKE assembly instructions for you**
