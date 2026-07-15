@@ -5,6 +5,29 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-15
+
+**🪸 A Maldives resort just planted 13 3D-printed reefs in its lagoon**
+Printed clay structures are being used as new homes for coral and fish in an
+ecosystem damaged by bleaching (when warming water makes coral lose its color
+and its food). Peter: this is basically urban planning for fish — someone
+designed a city, and the residents are moving in.
+→ [3DPrint.com news briefs, July 9 2026](https://3dprint.com/328384/3d-printing-news-briefs-7-9-2026/)
+*Remix spark: design a "coral tower" in Tinkercad — maximum nooks, maximum surface area. That's the real design brief reef engineers use.*
+
+**🏗️ The Guinness World Record for the largest 3D-printed structure**
+Filament maker Polymaker has the story of the biggest thing ever 3D printed —
+proof that the same idea as our desk-sized machine scales up to buildings.
+→ [polymaker.com — Guinness World Record](https://polymaker.com/guinness-world-record-largest-3d-printed-structure/)
+
+**⏰ 2 days left: Homer's Epics contest ends Friday Jul 17**
+If Matt's three-headed flexi dog or Peter's tiny Parthenon (see this week's
+[sparks](weekly-sparks.md)) is happening, designs need to be printing by
+Thursday night.
+→ [makerworld.com/en/contests](https://makerworld.com/en/contests)
+
+---
+
 ## 2026-07-14
 
 **⏰ FINAL CALL: Bambu's anniversary sale ends TOMORROW (Jul 15)**
