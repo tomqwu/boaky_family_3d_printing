@@ -5,6 +5,30 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-16
+
+**📢 Deadline update: Hide & Seek submissions actually run to AUG 9**
+Good news — the hiding *event* runs Jul 7–27, but the contest submission window
+is July 10 – August 9. Translation: more time than we thought for the family
+camouflage entry. Still: print early, hide often.
+→ [MakerWorld community post](https://makerworld.com/en/community/post/1786413)
+
+**🗄️ Gridfinity — the LEGO of desk organization**
+A free, open grid standard (everyone's designs share the same base size, so
+everything snaps together — sound familiar, Peter? It's your city-tile rule,
+but for drawers). Print a base grid, then bins for every messy drawer in the
+house. The Deskfinity desk system is the flagship.
+→ [Deskfinity on MakerWorld](https://makerworld.com/en/models/826392-gridfinity-desk-organizer-system-deskfinity) · [why it went viral](https://www.makeuseof.com/3d-printed-organizer-system-gridfinity/)
+*Remix spark: a custom Gridfinity bin sized for Dad's exact desk mess = instant Gift Machine entry.*
+
+**🦍 Fresh flexi drop: Mini Gorilla and Manta Ray**
+Two new print-in-place flexis trending now — a chunky, grumpy-faced gorilla and
+a manta ray whose wings ripple. Matt: notice how the gorilla feels HEAVY and the
+manta feels FLOWY with the same joint trick — that's design personality.
+→ [Flexi Mini Gorilla](https://makerworld.com/en/models/2856080-flexi-mini-gorilla) · [Flexi Manta Ray](https://makerworld.com/en/models/2373512-flexi-manta-ray-print-in-place-no-support)
+
+---
+
 ## 2026-07-15
 
 **🪸 A Maldives resort just planted 13 3D-printed reefs in its lagoon**
