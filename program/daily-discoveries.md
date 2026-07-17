@@ -5,6 +5,30 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-17
+
+**🏠 Update: the floor-plan tool can now print YOUR house**
+The Generative 3D Floor Plans tool (we flagged it Jul 7) shipped a big July 8
+update — a roof system with pitched and flat roofs, and here's the part we
+missed: it uses computer vision (software that finds shapes in pictures) to
+turn ANY 2D floor plan image into a printable 3D miniature. Peter: find our
+house's floor plan and print where you live.
+→ [Generative 3D Floor Plans on MakerWorld](https://makerworld.com/en/models/2746484-generative-3d-floor-plans)
+*Remix spark: print our house, then park it on one of your city tiles — the neighborhood begins.*
+
+**🏛️ Print the ancient world: Teotihuacan, Chichén-Itzá, and friends**
+A curated collection of Mesoamerican ruins — the Pyramid of the Sun, the Pyramid
+of Kukulkan, the Arch of Labná — as printable miniatures. Peter: cities existed
+1,500 years before zoning laws; this is what THEIR urban planning looked like.
+→ [Architectural miniatures collection guide (3DWithUs)](https://3dwithus.com/architectural-miniatures-collection-how-to-design-and-3d-print)
+
+**⚽ The World Cup final is SUNDAY — party-print window closes tonight**
+Trophy candy bowl, bracket medals, and Matt's penalty-shootout game all need
+plate time before Sunday. Slice tonight, print Saturday, kick off ready.
+→ the kit list is in the [Jul 10 discoveries](daily-discoveries.md) and Matt's game is [penalty-shootout.scad](../projects/matt/penalty-shootout.scad)
+
+---
+
 ## 2026-07-16
 
 **📢 Deadline update: Hide & Seek submissions actually run to AUG 9**
