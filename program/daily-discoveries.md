@@ -5,6 +5,31 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-18
+
+**🎲 PlayGrid's core board is a FREE download — and the contest ends WEDNESDAY (Jul 22)**
+The 10x10 modular game board everyone's designing for is free to print, and
+wave two just added Lucky Numbers, PlayGrid Pizza, and Filament Frenzy. Peter:
+print the core module this weekend, invent one game tile, and there's still
+time to enter the design contest.
+→ [PlayGrid Core Module (free)](https://makerworld.com/en/models/2662193-playgrid-core-module) · [the PlayGrid project](https://makerworld.com/en/crowdfunding/194-playgrid-modular-board-game-experience) · [contests hub](https://makerworld.com/en/contests)
+*Remix spark: your city tiles and PlayGrid tiles are cousins — a "build the city fastest" game tile would fit both worlds.*
+
+**🎓 Bambu Academy courses now pay you points for learning**
+Free official courses on Bambu Studio and printer skills — finish one and you
+earn up to 100 MakerWorld points (the site's reward currency) plus a printable
+Certificate of Completion. That's our [skills ladder](01-h2c-mastery.md) with
+prizes attached: do a course, print your certificate, hang it by the printer.
+→ [Bambu Lab Academy](https://bambulab.com/en/support/academy) · [All3DP's writeup](https://all3dp.com/4/master-your-machine-while-earning-makerworld-points-with-new-bambu-lab-academy-courses/)
+
+**🐹 Meanwhile on TikTok: capybaras rule the desk**
+The internet's current favorite print is the capybara — in tiny hats, in hot
+tubs, as desk companions — plus "dumpling clicker" fidgets. Matt: sometimes the
+trend IS the fun; pick your favorite and print the herd.
+→ [E3D on TikTok's most-printed items](https://e3d-online.com/blogs/news/most-3d-printed-items-on-tiktok) · [Snapmaker's popular-prints roundup](https://www.snapmaker.com/blog/most-popular-3d-printed-items/)
+
+---
+
 ## 2026-07-17
 
 **🏠 Update: the floor-plan tool can now print YOUR house**
