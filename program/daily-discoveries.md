@@ -5,6 +5,32 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-19
+
+**🤖⚽ RC soccer robots — because the World Cup ends today, but robot soccer is forever**
+Bambu's CyberBrick system (their snap-together electronics kit — motors, remote
+control, a tiny brain board) has an official printable SoccerBot AND a modular
+arena. Matt: after tonight's final, this is how soccer continues in this house.
+The electronics kit is a Dad purchase; every plastic part prints free.
+→ [CyberBrick Official SoccerBot](https://makerworld.com/en/models/1395987-cyberbrick-official-soccerbot) · [modular Soccer Bot Arena](https://makerworld.com/en/models/1223128-cyberbrick-soccer-bot-arena-modular-field-size) · [kit at Bambu store](https://us.store.bambulab.com/products/cyberbrick-official-soccerbot)
+*Remix spark: your penalty-shootout goal is already arena-sized — measure it against the arena walls.*
+
+**📸 Correction + opportunity: the Insta360 challenge runs to AUG 9 (not July 10)**
+We had this one backwards — Jul 10 was the START. A month-long, $11,000-prize
+challenge to design accessories for the Luna Ultra camera, with official files
+released for precision-fit design (caliper work — Peter's specialty), and the
+best ideas may become REAL products.
+→ [Bambu's announcement](https://blog.bambulab.com/lets-make-it-bambu-lab-and-insta360-launch-luna-ultra-design-challenge-on-makerworld/) · [Insta360's post](https://www.insta360.com/blog/insta360-bambulab-makerworld-contest.html)
+
+**🌊 They're 3D printing concrete UNDERWATER now**
+A new commercial system (xForm3D Marine) prints concrete for underwater and
+marine construction — bridges, sea walls, maybe future reefs. Peter: first the
+printed coral (Jul 15), now printed harbors — underwater urban planning is
+becoming a real job.
+→ [3DPrint.com news briefs, July 18 2026](https://3dprint.com/329042/3d-printing-news-briefs-7-18-2026/amp/)
+
+---
+
 ## 2026-07-18
 
 **🎲 PlayGrid's core board is a FREE download — and the contest ends WEDNESDAY (Jul 22)**
