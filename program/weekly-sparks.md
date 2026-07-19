@@ -6,6 +6,66 @@ always there too. *Weird words? [Decoder Ring](10-glossary.md).*
 
 ---
 
+## Week 3 — Original Design I (Jul 20–26) · posted 2026-07-19
+
+The training wheels come off: this week you design things that never existed.
+The loop that makes first designs succeed:
+
+```mermaid
+flowchart LR
+    A["Sketch on paper"] --> B["Model in Tinkercad"]
+    B --> C["Print a small test"]
+    C --> D["Measure and fix"]
+    D --> E["Print the real one"]
+    E --> F["Show and tell"]
+```
+
+**🏗️ Peter: the Empty Lot Project.** Find a real empty lot or parking lot near
+home (walk or Street View). Design what SHOULD be built there — footprint
+(the outline where it meets the ground) matched to the real lot shape. Present
+it Sunday like a planning pitch: what it is, who it's for, why there. That's
+called infill development, and it's half of what real planners argue about.
+
+**🧸 Matt: the Toy With A Job.** Your first original design shouldn't just look
+cool — give it a mission. What bugs you daily? Cards that won't stand up in
+board games? A controller cable that tangles? Design the fix so it's ALSO fun
+to fidget with. Function + fun = the designs that win contests.
+
+**👨‍👦‍👦 Family: the Assembly Guide test.** Bambu Studio 2.8 can auto-generate
+assembly instructions with exploded views (parts floating apart so you see the
+stacking — see [Jul 13 discoveries](daily-discoveries.md)). Run it on the
+penalty-shootout kit, then assemble following ONLY the generated guide. If the
+family gets confused, the design needs work — that's a real product test.
+
+**🤫 Gift Machine: open the secret file.** Each kid privately asks Claude for
+ONE gift design idea for the other's birthday this week — practice run for the
+[secret-print protocol](09-gifts-and-occasions.md). Claude keeps secrets;
+QA-LOG entries stay vague.
+
+**🍬 Early start on BONBON (closes ~Aug 1).** Matt: capsule-toy contest is next
+week's main event — spend 20 minutes this week sketching 5 capsule-sized toy
+ideas and circle the best one. Sketching first is what pros do.
+
+**🎯 Wildcard: clearance check-in.** Before designing moving parts, re-run
+[clearance-test](../projects/family/clearance-test.scad) in the exact filament
+you'll design with — different colors and brands shift the magic number a bit.
+Log the new number.
+
+### 📅 Contest radar (next 2 weeks)
+
+| Deadline | Contest | Fits |
+|---|---|---|
+| **Jul 22 (Wed!)** | PlayGrid Board Games (MakerWorld) — core module is a [free print](https://makerworld.com/en/models/2662193-playgrid-core-module) | Peter |
+| **Jul 22 (Wed!)** | Modular Drawer System (Printables, 23:59 UTC) | Peter |
+| **~Jul 28** | Pet Feeder (MakerWorld) — verify in-app | Either |
+| **~Aug 1** | BONBON Capsules (MakerWorld) | Matt |
+| **Aug 9** | Hide & Seek submissions (MakerWorld) | Family |
+| **Aug 9** | Insta360 Luna Ultra Challenge — $11k prizes | Peter + Dad |
+
+Submit a day early, from Dad's account ([playbook](04-contests-and-community.md)).
+
+---
+
 ## Week 2 — Remix Week (Jul 13–19) · posted 2026-07-12
 
 This week's superpower: taking models that exist and making them *yours*.
