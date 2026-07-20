@@ -5,6 +5,30 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-20
+
+**📐 Perfect timing: Tinkercad got seriously stronger**
+Just as your Original Design week starts, Tinkercad's recent updates add real
+measurement units (centimeters, meters, feet — Peter, your scale math just got
+easy), intersect groups (keep only where two shapes overlap), smooth curves,
+sketch strokes, and a build area twice as big. The "beginner tool" is quietly
+becoming a real design tool.
+→ [Fabbaloo's overview](https://www.fabbaloo.com/news/new-tinkercad-features-expand-capabilities-beyond-entry-level-3d-design) · [Tinkercad's sketch update](https://www.tinkercad.com/blog/sketch-strokes) · [export update](https://www.tinkercad.com/blog/export-update)
+
+**🌬️ Wind spinners are the summer trend — and they're physics you can watch**
+Spinning garden sculptures are everywhere on MakerWorld right now: an alien
+jellyfish that swims in the breeze, a rocket with snap-fit wings, even a DNA
+helix. Matt: it's a fidget powered by weather. Family: one each for the yard?
+→ [Alien Jellyfish](https://makerworld.com/en/models/2770484-alien-jellyfish-wind-spinner) · [Rocket](https://makerworld.com/en/models/1540595-rocket-wind-spinner-3d-printable) · [DNA helix](https://makerworld.com/en/models/1039848-dna-wind-spinner)
+*Remix spark: this week's design challenge, outdoors edition — what shape spins best? That's a real aerodynamics question.*
+
+**🔖 Bookmark this: a curator who collects each week's best prints**
+A MakerWorld account that maintains weekly collections of what's trending —
+instant Sunday show-and-tell browse fuel, updated so we don't have to hunt.
+→ [3D Prints This Week — collections](https://makerworld.com/en/@3DPrintsThisWee/collections)
+
+---
+
 ## 2026-07-19
 
 **🤖⚽ RC soccer robots — because the World Cup ends today, but robot soccer is forever**
