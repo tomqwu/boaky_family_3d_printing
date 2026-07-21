@@ -5,6 +5,36 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-21
+
+**🏛️ The Met is releasing 100+ of its artworks as printable 3D models**
+The Metropolitan Museum of Art announced official 3D models of iconic pieces
+from its collection — meaning you can print museum treasures at home. Family
+shelf idea: a tiny Met wing next to Peter's skyline.
+→ [The Met's announcement](https://www.metmuseum.org/press-releases/3-d-models-announcement-2026)
+
+**🗽 One man spent 21 YEARS hand-building a 50-foot model of NYC**
+Joe Macken built all of New York City from balsa wood and cardboard — it's on
+display at the Museum of the City of New York until this summer. Peter: he did
+it by hand over two decades; you have a robot and code. What's your excuse?
+→ [Designboom story](https://www.designboom.com/design/handmade-miniature-model-new-york-layout-city-streets-buildings-joe-macken/) · [NY1 coverage](https://ny1.com/nyc/all-boroughs/news/2026/02/09/models--art--new-york-city)
+
+**🔐 Puzzle boxes with SECRET mechanisms — the gift-box final boss**
+A pyramid with sequential-discovery steps (solve one thing to unlock the next)
+and an industrial "Machine Core" with gear and logic challenges on every side.
+Matt: these are mechanism school exam material. Gift Machine: a present hidden
+inside a puzzle you must solve = legendary.
+→ [Pyramid Box](https://makerworld.com/en/models/2888237-pyramid-box-sequential-discovery-puzzle) · [The Machine Core](https://makerworld.com/en/models/2399911-the-machine-core-mechanical-puzzle-box)
+*Remix spark: add ONE puzzle step to your gift-box.scad lid — ask Claude for a sliding-pin lock.*
+
+**⏰ Pet Feeder contest closes ~Jul 28 — and one category fits us perfectly**
+The three tracks are Smart Feeding, Home & Travel, and **Interactive & Puzzle
+Feeders** — that last one is literally "toy design meets pet dinner." A week is
+enough for a simple gravity feeder with a puzzle flap.
+→ [contest page](https://makerworld.com/en/contests/149)
+
+---
+
 ## 2026-07-20
 
 **📐 Perfect timing: Tinkercad got seriously stronger**
