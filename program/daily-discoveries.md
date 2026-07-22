@@ -5,6 +5,30 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-22
+
+**⏰ TODAY: PlayGrid and Modular Drawer contests both close at 23:59 UTC**
+If either entry is done, Dad submits tonight. If not — the radar shows Pet
+Feeder (~Jul 28), BONBON (~Aug 1), and two Aug 9 deadlines still open.
+
+**🎛️ Dad: our printer's newest firmware has 5 switches worth flipping**
+The H2 series firmware (firmware = the printer's own built-in software) added:
+remote AMS drying from your phone, print-WHILE-drying, TPU 90A+ allowed on the
+left nozzle, foreign-object detection under the heatbed, and a "Purify Air at
+Print End" button that runs the filter 3 minutes after each print. That last
+one is a free air-quality upgrade — turn it on and leave it on.
+→ [H2C firmware release history (official wiki)](https://wiki.bambulab.com/en/h2c/manual/h2c-firmware-release-history) · [owner discussion](https://forum.bambulab.com/t/so-whats-in-the-new-h2c-firmware-upgrade/234239)
+
+**🎻 People print violins that actually play — for about $12**
+A whole world of working printed instruments exists: flutes, drums, guitars,
+and a famous DIY violin build that costs ~$12 in parts. Both of you: after the
+whistle challenge (idea #139), this is the boss level — an instrument counts as
+a mechanism AND a showcase piece.
+→ [MakerWorld's music category](https://makerworld.com/en/3d-models/303-music) · [the $12 violin story](https://techcrunch.com/2013/03/06/this-diy-3d-printed-violin-is-nearly-ready-to-play-beautiful-music)
+*Remix spark: a two-note train whistle for Peter's city — function meets diorama.*
+
+---
+
 ## 2026-07-21
 
 **🏛️ The Met is releasing 100+ of its artworks as printable 3D models**
