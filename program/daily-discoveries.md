@@ -5,6 +5,32 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-23
+
+**🌆 NeoHexa Metropolis — a futuristic floating CITY that's also a marble run**
+Hexagonal island city on blue water, parks, solar panels — and wind turbines
+that are secretly marble lifts, cycling marbles through vertical streets
+forever. Peter meets Matt in one print: city-of-tomorrow design AND endless
+rolling action. Hand-crank and motorized versions included.
+→ [makerworld.com/en/models/1228147-neohexa-metropolis-marble-run-future-in-motion](https://makerworld.com/en/models/1228147-neohexa-metropolis-marble-run-future-in-motion)
+*Remix spark: Peter — what would a marble-lift "transit system" look like in YOUR capstone district?*
+
+**🔵 Modular marble runs — and a real lesson hiding in V1 vs V2**
+Stackable marble-run systems are having a moment. The best part: Marble Run V2
+exists because V1's blocks slipped — the designer added a recessed base plate
+to fix it. That's the design loop you're living this week: build, find the
+flaw, version 2.
+→ [Marble Run V2](https://makerworld.com/en/models/897308-marble-run-v2-modular-system) · [Infinity Marble Run](https://makerworld.com/en/models/1451948-infinity-marble-run) · [the whole collection](https://makerworld.com/en/collections/4278039-marble-run)
+
+**⚙️ Automata — the ancient art of hand-crank machines, printed**
+Automata (self-moving machines powered by a crank and cams — bumps on a
+turning shaft that push parts up and down) are 3D printing's favorite art
+form. A water-droplet automaton that "ripples," spinning-figure sculptures,
+a machine that draws. Matt: cams are the one mechanism your school is missing.
+→ [All3DP's 12 best automata](https://all3dp.com/2/3d-printed-automaton-automata-models/) · [the mesmerizing water droplet](https://hackaday.com/2017/09/21/see-this-mesmerizing-3d-printed-water-droplet-automaton/)
+
+---
+
 ## 2026-07-22
 
 **⏰ TODAY: PlayGrid and Modular Drawer contests both close at 23:59 UTC**
