@@ -5,6 +5,31 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-24
+
+**🦿 Robots that WALK with zero electronics**
+Walking machines powered by nothing but gravity, rubber bands, and clever leg
+linkages (linkage = bars and joints that turn spinning into stepping). The
+Mechanical Walking Robot Toy is a print-and-walk starter; TrotBot is the deep
+end — a famous walking linkage you can print and study. Matt: this is what
+happens when your mechanism school graduates get legs.
+→ [Mechanical Walking Robot Toy](https://makerworld.com/en/models/206611-mechanical-walking-robot-toy) · [3D-printed TrotBot](https://www.diywalkers.com/3d-printed-trotbot-by-scott-anderson.html)
+*Remix spark: could your penalty-shootout keeper WALK across the goal instead of sliding? Sketch it.*
+
+**🤖 Berkeley built an open humanoid robot you can 3D print**
+University engineers released Berkeley Humanoid Lite — a customizable humanoid
+robot with 3D-printed gearboxes, designed so regular people can build real
+robotics. Both of you: the gap between "toy" and "robot" is smaller than it
+looks, and it's made of printed gears.
+→ [Berkeley Engineering announcement](https://engineering.berkeley.edu/news/2025/06/berkeley-engineers-develop-customizable-3d-printed-robot-for-tech-newbies/)
+
+**⏰ Weekend heads-up: Pet Feeder contest closes ~Monday Jul 28**
+If the puzzle-feeder idea is happening, this weekend is the build window —
+simple gravity feeder + one puzzle flap is enough to enter.
+→ [contest page](https://makerworld.com/en/contests/149)
+
+---
+
 ## 2026-07-23
 
 **🌆 NeoHexa Metropolis — a futuristic floating CITY that's also a marble run**
