@@ -5,6 +5,31 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-25
+
+**🔬 Scientists worldwide use a MICROSCOPE you can print at home**
+The OpenFlexure Microscope is a real research instrument — open-source (the
+design is free for anyone to use and improve), printed in plastic, and precise
+to under 100 nanometers (a nanometer is a millionth of a millimeter). Its
+secret is the *flexure*: bendy plastic joints instead of sliding parts, so
+there's zero wobble. Matt: that's a mechanism your school hasn't met yet.
+→ [openflexure.org](https://openflexure.org/projects/microscope/)
+*Remix spark: print one flexure stage just to bend it — then ask Claude how a flexure could steady your flick ramp.*
+
+**🧪 UC2 — LEGO-style science blocks that build microscopes AND telescopes**
+A modular optics system: printed cubes that snap together into different
+instruments. Peter: it's your city-tile grid rule again — one connection
+standard, infinite builds — except this time the "city" is a laboratory.
+→ [the UC2 open standard (Nature Communications)](https://www.nature.com/articles/s41467-020-19447-9)
+
+**🔭 A university published a build-your-own observatory**
+PrintedLabs (University of Bayreuth) shares printable telescopes, adjustment
+gear, and mounts — a family stargazing build with real optics. August has
+meteor showers; a printed telescope by then is a summer story worth telling.
+→ [PrintedLabs model database](https://printedlabs.uni-bayreuth.de/en/modelldatenbank)
+
+---
+
 ## 2026-07-24
 
 **🦿 Robots that WALK with zero electronics**
