@@ -5,6 +5,30 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-26
+
+**🍬 BONBON contest intel: the host just told everyone how to win (⏰ ~Aug 1)**
+Matt, this is your contest week, and the host @Pipin.World published the judging
+philosophy: BONBON is "printable emotion" — a simple toy that makes someone FEEL
+surprise beats a super-detailed figure; playability counts extra; and every
+entry must pass the printable capsule checker (if the lid won't close on the
+checker, it can't win). Design for the reveal moment, not the shelf.
+→ [contest page](https://makerworld.com/en/contests/150) · [the BONBON machine itself](https://makerworld.com/en/crowdfunding/101-your-very-own-surprise-dispenser-bonbon)
+
+**🌈 Week 4 starts tomorrow — here's the multi-color hall of fame**
+A curated collection of prints that show off what AMS multi-color can really
+do. Tonight's show-and-tell homework: everyone picks ONE print from this
+collection as their week-4 color-week showpiece.
+→ [AMS prints collection on MakerWorld](https://makerworld.com/en/collections/137355-ams-prints)
+
+**🏁 Dad-read: the industry is racing to catch the machine in our house**
+A 3DBite piece on the 2026 "AMS arms race" — every printer company is now
+building multi-material systems, chasing what the H2C's 7 purge-free melt
+paths already do. Good context for why our color prints barely waste plastic.
+→ [3DBite on the AMS arms race](https://3dbite.com/ams-arms-race-multi-material-3d-printing-systems-2026/)
+
+---
+
 ## 2026-07-25
 
 **🔬 Scientists worldwide use a MICROSCOPE you can print at home**
