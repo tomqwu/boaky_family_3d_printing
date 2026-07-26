@@ -6,6 +6,64 @@ always there too. *Weird words? [Decoder Ring](10-glossary.md).*
 
 ---
 
+## Week 4 — Multi-color Mastery (Jul 27–Aug 2) · posted 2026-07-26
+
+Color week: the H2C finally gets to show off. The rhythm for every color print
+this week:
+
+```mermaid
+flowchart LR
+    A["Pick or design a model"] --> B["Paint it in Bambu Studio"]
+    B --> C["Check the purge estimate"]
+    C --> D["Print"]
+    D --> E["Weigh the waste"]
+    E --> F["Log it Sunday"]
+```
+
+**🍬 Matt: BONBON mission week (⏰ submit by Friday night).** The contest closes
+~Aug 1, so the plan is: Monday = final design from your sketches, Wednesday =
+test print + the official capsule-checker fit test, Friday = final print, photos,
+Dad submits. Remember the host's own hint (see [Jul 26 discoveries](daily-discoveries.md)):
+design for the surprise-and-reveal moment, not for detail.
+
+**🌗 Peter: Day and Night city.** Take your week-3 building and produce TWO
+color schemes of the same model — daytime (stone, glass, white) and nighttime
+(dark walls, glowing yellow windows) — using height-range and fill painting
+only, no redesign. Present both Sunday: same shape, different mood. That's what
+color does, and why cities light differently at night.
+
+**⚖️ Family: the Purge Ledger.** The week-long version of the purge science
+fair (idea bank #97): weigh every purge pile (the wasted color-change plastic)
+on the kitchen scale all week, log grams per print, and graph it Sunday. By
+August you'll know exactly what a color swap costs — most families never do.
+
+**🎨 Gift Machine, stealth edition: the color poll.** Print three magnet-coaster
+color swatches and ask Mom which she likes best — "just curious." You're
+secretly choosing December's ornament palette. Write the winner in the gift doc.
+
+**🔤 Wildcard: the two-word illusion.** Design a block sculpture that reads one
+word from the left and a different word from the right (Tinkercad's new
+intersect-groups tool — keep only where two shapes overlap — is literally built
+for this). MATT from one side, PETER from the other: the ultimate sibling desk
+object.
+
+**⏰ Wildcard: Pet Feeder closes TUESDAY (Jul 28).** Last chance for the
+puzzle-feeder entry — a gravity feeder with one sliding flap is a legit entry
+if it prints by Monday night.
+
+### 📅 Contest radar (next 2 weeks)
+
+| Deadline | Contest | Fits |
+|---|---|---|
+| **Jul 28 (Tue!)** | Pet Feeder (MakerWorld) | Either |
+| **~Aug 1 (Sat!)** | BONBON Capsules (MakerWorld) — Matt's main event | Matt |
+| **Aug 9** | Hide & Seek submissions (MakerWorld) | Family |
+| **Aug 9** | Insta360 Luna Ultra Challenge — $11k prizes | Peter + Dad |
+
+Submit a day early, from Dad's account ([playbook](04-contests-and-community.md)).
+
+---
+
 ## Week 3 — Original Design I (Jul 20–26) · posted 2026-07-19
 
 The training wheels come off: this week you design things that never existed.
