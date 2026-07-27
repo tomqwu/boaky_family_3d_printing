@@ -5,6 +5,37 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-27
+
+**🎨 Color week opens with big news: Bambu Studio can now MIX filament colors**
+A new Bambu Studio feature blends two filaments into in-between shades and
+gradients — meaning our 8 loaded colors can fake dozens. This is THE tool to
+learn this week; expect it to change how you paint your models.
+→ [All3DP on the color mixing update](https://all3dp.com/4/never-mind-the-x2d-new-bambu-studio-update-adds-filament-color-mixing-feature/)
+*Remix spark: Peter's Day-and-Night city with a sunset gradient in between?*
+
+**🧒 Bambu launched PLA Pure — filament designed to be extra safe**
+A new PLA made with the same pigments used in baby tableware and ingredients
+from food packaging — engineered for cleaner printing in homes like ours.
+Dad: worth a spool at $24.99 next order, especially for anything the kids
+handle daily.
+→ [DEVELOP3D on PLA Pure](https://develop3d.com/3d-printing/bambu-lab-unveils-pla-pure-filament/)
+
+**🖼️ HueForge leveled up: direct 3MF export + a living filament library**
+The filament-painting app now exports 3MF files straight into Bambu Studio (no
+STL conversion dance) and auto-updates its community filament color library in
+the background. If we buy the HueForge license this week (shopping list tier
+2), the workflow just got smoother.
+→ [HueForge 0.9.4 release notes](https://devlog.thehueforge.com/p/hueforge-094-release-notes)
+
+**🎨 Print a swatch for every spool we own**
+A classic utility print for color week: filament swatches — small labeled color
+chips, one per spool — so choosing colors happens at the table, not by squinting
+at spools. Family assembly line: everyone prints their shelf's swatches.
+→ [Bambu Lab Filament Swatches model](https://makerworld.com/en/models/16866-bambu-lab-filament-swatches)
+
+---
+
 ## 2026-07-26
 
 **🍬 BONBON contest intel: the host just told everyone how to win (⏰ ~Aug 1)**
