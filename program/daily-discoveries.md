@@ -5,6 +5,28 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-28
+
+**⏰ TODAY: Pet Feeder contest closes — submit by tonight**
+If the puzzle-feeder printed, Dad submits before bed. Either way, a new target
+just appeared (see below).
+
+**🤖🐕 NEW CONTEST: RoboDog Mod Challenge starts Aug 3**
+Three creators are hosting a challenge to MOD a robo-dog — armor, tools,
+costumes, upgrades. Matt: modding an existing robot design is exactly your
+remix-plus-mechanisms skillset, and it starts Monday. Watch the hub for the
+rules drop.
+→ [contests hub](https://makerworld.com/en/contests) · [upcoming contest tag](https://makerworld.com/en/community/tag?name=Upcoming+Contest)
+
+**💦 Heat wave menu: pool toys the printer can make TODAY**
+A fillable water torpedo for diving games (screws together watertight-ish), the
+famous Benchy boat powered by a balloon, and a mini boat designed to teach
+buoyancy (why things float — weight low, air high). Perfect week for all three.
+→ [Water Torpedo](https://makerworld.com/en/models/2964255-fillable-water-torpedo-pool-diving-toy) · [Balloon-Powered Benchy V3](https://makerworld.com/en/models/1583559-v3-balloon-powered-benchy-fun-on-the-water) · [Floating Mini Boat](https://makerworld.com/en/models/1561268-floating-mini-boat) · [water toys collection](https://makerworld.com/en/collections/844193-water-toys)
+*Remix spark: Matt — a TPU torpedo in team colors; Peter — does your capstone city need a harbor?*
+
+---
+
 ## 2026-07-27
 
 **🎨 Color week opens with big news: Bambu Studio can now MIX filament colors**
