@@ -5,6 +5,32 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-29
+
+**🏊 NEW CONTEST: Pool Accessories on Printables — ⏰ ends Aug 9**
+Yesterday we printed pool toys; today Printables wants you to DESIGN poolside
+gear — towel hooks, floating drink holders, toy storage, skimmer helpers.
+Matt: your "Toy With A Job" skill, applied to the pool. Real deadline, real
+prizes, and the family pool season is your test lab.
+→ [printables.com/contest/520-pool-accessories](https://www.printables.com/contest/520-pool-accessories)
+
+**🕰️ Sincro — a fully printed, gravity-powered clock just crowdfunded**
+A mechanical clock that runs on a falling weight, every part printed, engineered
+for low friction — and its funding campaign succeeded three days ago. Proof
+that printed plastic can keep TIME, which is about the hardest thing you can
+ask plastic to do.
+→ [Sincro on MakerWorld crowdfunding](https://makerworld.com/en/crowdfunding/304-sincro-the-3d-printed-mechanical-clock)
+
+**⏱️ Meet the escapement — the tick-tock mechanism, as a desk toy**
+The escapement is the tiny gatekeeper inside every mechanical clock: it lets
+the gears advance one click at a time, which is literally where "tick-tock"
+comes from. This desk toy version (Swiss lever style) lets you watch it work.
+Matt: after cams and flexures, this completes your mechanism collection.
+→ [Clock Escapement Mechanism Desk Toy](https://makerworld.com/en/models/769351-clock-escapement-mechanism-desk-toy)
+*Remix spark: an escapement makes anything move in steps — what toy needs a "one click at a time" feature?*
+
+---
+
 ## 2026-07-28
 
 **⏰ TODAY: Pet Feeder contest closes — submit by tonight**
