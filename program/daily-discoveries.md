@@ -5,6 +5,31 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-30
+
+**🌉 Da Vinci designed a bridge 500 years ago. 3D printing proved it works.**
+Leonardo proposed a 790-foot bridge in 1502 — rejected as impossible. MIT
+printed his design as 126 blocks, assembled it with NO glue (pure compression —
+the blocks squeeze each other into place), and it stood, even when they shook
+its foundations. Italy has since built a real walkable version. And you can
+print the bridge yourself tonight.
+→ [printable Da Vinci bridge (MakerWorld)](https://makerworld.com/en/models/910569-leonardo-da-vinci-s-bridge) · [MIT's test](https://news.mit.edu/2019/leonardo-da-vinci-bridge-test-1010) · [Italy's real one, from stone waste](https://3dprint.com/315401/italys-da-vinci-bridge-reinvented-with-3d-printing-and-stone-waste/)
+*Remix spark: Peter — a compression-only bridge between two of your city tiles. No glue allowed, like Leonardo.*
+
+**🛰️ Astronauts are 3D printing METAL on the space station**
+ESA's metal printer aboard the ISS just produced its fifth part, retrieved by
+astronaut Sophie Adenot. Space stations can't carry every spare part — so the
+plan is: print them in orbit. Same idea as our printer, hotter material,
+zero gravity.
+→ [3DPrint.com news briefs, July 25 2026](https://3dprint.com/329210/3d-printing-news-briefs-7-25-2026/)
+
+**⏰ Matt: BONBON submission is TOMORROW night**
+Per the mission plan — final print, photos in good light, Dad submits Friday.
+The capsule checker is the law: if the lid doesn't close, it can't win.
+→ [contest page](https://makerworld.com/en/contests/150)
+
+---
+
 ## 2026-07-29
 
 **🏊 NEW CONTEST: Pool Accessories on Printables — ⏰ ends Aug 9**
