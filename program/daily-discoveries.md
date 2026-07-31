@@ -5,6 +5,31 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-07-31
+
+**⏰ TONIGHT: BONBON capsule entry goes in**
+Final print done, photos in daylight, capsule-checker passed, Dad submits.
+Whatever happens — designing a toy that fits a rule is a skill you now own.
+→ [contest page](https://makerworld.com/en/contests/150)
+
+**🏰 OpenForge — castle-building with ANOTHER snap-together standard**
+Modular dungeon-and-castle tiles with magnetized bases (5×1mm magnets — our
+week-6 skill!) and the OpenLOCK clip system, so walls, stairs, gates, and
+towers combine endlessly. Peter: that's your third grid standard this summer —
+city tiles, Gridfinity drawers, now castles. Matt: it's a buildable fortress
+for your figures. Same idea, medieval edition.
+→ [OpenForge magnetized tiles](https://makerworld.com/en/models/2088671-openforge-dungeon-stone-tiles-reusable-base) · [OpenLOCK dungeon tiles](https://makerworld.com/en/models/918431-dungeon-tiles-openlock-system) · [D&D terrain collection](https://makerworld.com/en/collections/10877237-d-d-terrain)
+*Remix spark: a castle tile whose footprint ALSO fits Peter's city-tile grid = time-travel city.*
+
+**📈 Official trend check: you've been ahead of the curve all summer**
+A 2026 trends roundup says MakerWorld's fastest-growing categories are pet
+feeders, football-fan keychains, and fantasy terrain. Sound familiar? You
+entered a pet feeder contest, printed World Cup keychains, and today's find is
+terrain. The family instinct is market-grade.
+→ [Sovol's 2026 trending projects roundup](https://www.sovol3d.com/blogs/news/cool-things-to-3d-print-at-home-trending-projects-2026)
+
+---
+
 ## 2026-07-30
 
 **🌉 Da Vinci designed a bridge 500 years ago. 3D printing proved it works.**
