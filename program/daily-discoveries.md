@@ -5,6 +5,33 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-01
+
+**👟 TPU week preview: people are printing actual WEARABLE sneakers now**
+A new foaming TPU (Roamr TPU Air HR — soft but springy, made for shoes) just
+launched, and there are full guides for printing flexible footwear with
+energy-returning lattices (patterns that squish and bounce back). Matt: the
+material you meet Monday is the same one the shoe industry is betting on.
+→ [3D Printing Industry on the new TPU](https://3dprintingindustry.com/news/new-tpu-material-could-boost-comfort-and-rebound-in-footwear-248538/) · [Snapmaker's how-to-print-shoes guide](https://www.snapmaker.com/blog/how-to-3d-print-shoes/)
+*Remix spark: before shoes — a TPU flip-flop for an action figure. Walk before you run.*
+
+**🐕 RoboDog revealed — the robot behind Monday's mod challenge**
+The contest robot is real and impressive: a fully printed walking quadruped
+with 14 degrees of freedom (degrees of freedom = the number of separate ways
+its joints can move), a Raspberry Pi Zero brain, and ~€100 in parts. The
+challenge starting Aug 3 is to design MODS for it. Matt: study the dog this
+weekend, sketch mods Sunday.
+→ [the RoboDog project (Hackaday)](https://hackaday.io/project/204567-robodog) · [contests hub](https://makerworld.com/en/contests) · bonus classic: [Spot Micro quadruped](https://www.thingiverse.com/thing:3445283)
+
+**🏙️ Peter: real cities are 3D printing HOUSES to fix housing shortages**
+Forbes reports cities investing in printed homes in 2026 — concrete printers
+building walls in days, aimed at exactly the housing-supply problems planners
+argue about. Your capstone district could include a printed-homes block — it's
+not sci-fi anymore, it's a zoning question.
+→ [Forbes: Cities invest in 3D printing homes](https://www.forbes.com/sites/jennifercastenson/2026/04/16/cities-invest-in-3d-printing-homes-to-solve-housing-challenges/) · [3D-printed urban furniture research](https://www.mdpi.com/2227-9717/13/8/2492)
+
+---
+
 ## 2026-07-31
 
 **⏰ TONIGHT: BONBON capsule entry goes in**
