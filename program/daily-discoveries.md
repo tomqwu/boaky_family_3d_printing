@@ -5,6 +5,32 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-02
+
+**🫥 Hide & Seek winners are out — go see if you spot familiar hiding tricks**
+The challenge's entry call wrapped this week and winners were announced in the
+community update. Tonight's show-and-tell bonus: scroll the winning hiding
+spots and rate them as a family — then steal the best tricks for our own entry
+photos (submissions still run to Aug 9!).
+→ [MakerWorld community update](https://makerworld.com/en/community/post/1819450)
+
+**🎬 MakerWorld models can have VIDEOS now**
+Creators can upload a video when publishing a model — huge for anything that
+MOVES. When we publish the summer collection in week 8, the flexi snake, gyro
+fidget, and penalty-shootout NEED videos, not just photos. A 10-second clip of
+a toy working beats ten pictures.
+→ [MakerWorld release notes](https://wiki.bambulab.com/en/makerworld/release-note/makerworld-release-notes)
+*Remix spark: start filming print showcases now — Sunday show-and-tell is already a film set.*
+
+**🎒 Back-to-school print season is officially open (~4 weeks out)**
+The roundups are dropping: magnetic locker shelves, hexagon pencil organizers,
+custom bookmarks, name-tagged everything. Both of you: designing your OWN
+locker setup in Tinkercad beats downloading one — you know your locker. And
+the teacher-gift window (early Sep) is on the [gift calendar](09-gifts-and-occasions.md).
+→ [Magnetic School Locker Shelf](https://www.printables.com/model/5854-magnetic-school-locker-shelf) · [All3DP's 20 school supplies](https://all3dp.com/1/back-school-diy-supplies-3d-print/) · [teacher-list ideas](https://www.weareteachers.com/3d-printing-ideas/)
+
+---
+
 ## 2026-08-01
 
 **👟 TPU week preview: people are printing actual WEARABLE sneakers now**
