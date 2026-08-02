@@ -6,6 +6,64 @@ always there too. *Weird words? [Decoder Ring](10-glossary.md).*
 
 ---
 
+## Week 5 — New Materials (Aug 3–9) · posted 2026-08-02
+
+Materials week: the printer stops being a PLA machine. The quick chooser:
+
+```mermaid
+flowchart TD
+    Q["What are you printing"] --> B["Bendy or bouncy"]
+    Q --> S["Strong or outdoor"]
+    Q --> E["Everything else"]
+    B --> TPU["TPU from the rear spool, dried first"]
+    S --> PETG["PETG"]
+    E --> PLA["PLA"]
+```
+
+**🌙 Tonight's 5-minute move: start drying the TPU.** TPU drinks moisture and
+wet TPU prints like bubbly spaghetti — it needs ~8 hours at 70°C in the AMS
+dryer. Load it TONIGHT so Monday's first flexible print isn't a waiting room.
+
+**⚽🤖 Matt: the RoboDog soccer mod (contest STARTS TOMORROW Aug 3).** You
+studied the walking robot this weekend — now design it a mod: a keeper's glove
+paw? A ball-pusher plow? A tiny goal it defends? A soccer mod is the mashup
+only you would make. Sketch tonight, model this week.
+
+**🛞 Matt bonus: TPU tire swap.** Print soft TPU tires for the week-1 wind-up
+Spring Car and race it against the original hard wheels up a ramp — grip
+(traction) is why real cars have rubber tires, and you're about to prove it.
+
+**📱 Peter: your first real Fusion 360 part — your phone's exact stand.**
+Measure your phone with calipers (the pinch-to-measure tool), model it in
+Fusion as your day-1 exercise, then design and print a PETG stand that fits it
+perfectly on the first try. "Fits on the first try" is the whole skill.
+
+**🏅 Family build: the Materials Olympics.** Three events, one champion
+material: bounce-off (TPU vs PLA ball), drop test (same part in each material,
+increasing heights), flex test (who bends without breaking). Log results in
+the build log — this is real materials science with a kitchen-floor lab.
+
+**🎁 Gift Machine: teacher shortlist Sunday.** Teacher gifts print in ~3 weeks
+(calendar says last week of August). Tonight: list each teacher and pick their
+gift from the [teacher ideas](09-gifts-and-occasions.md) — so week 6's caliper
+sessions can measure what needs measuring.
+
+**⚠️ Next Sunday is a TRIPLE deadline.** Pick ONE to finish properly rather
+than three half-entries.
+
+### 📅 Contest radar (next 2 weeks)
+
+| Deadline | Contest | Fits |
+|---|---|---|
+| **Aug 3 (Mon)** | RoboDog Mod Challenge STARTS (MakerWorld) | Matt |
+| **Aug 9 (Sun!)** | Hide & Seek submissions close (MakerWorld) | Family |
+| **Aug 9 (Sun!)** | Insta360 Luna Ultra Challenge closes — $11k | Peter + Dad |
+| **Aug 9 (Sun!)** | Pool Accessories closes (Printables, 23:59 UTC) | Matt |
+
+Submit a day early, from Dad's account ([playbook](04-contests-and-community.md)).
+
+---
+
 ## Week 4 — Multi-color Mastery (Jul 27–Aug 2) · posted 2026-07-26
 
 Color week: the H2C finally gets to show off. The rhythm for every color print
