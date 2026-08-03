@@ -5,6 +5,33 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-03
+
+**🤖🐕 The RoboDog Mod Challenge is LIVE — starts today**
+Matt's contest window opens: mod the walking robot dog (your soccer-mod
+sketches from last night are officially in play). Standard rules apply — up to
+5 entries, original designs only, real-print photos required. Check the contest
+page for the mod-specific brief.
+→ [contests hub](https://makerworld.com/en/contests) · [the rules that always apply](https://makerworld.com/en/contests/rules)
+
+**🧪 TPU week, lesson one: the squishiness number**
+That "95A" on our TPU spool is a Shore hardness score — the squishiness scale.
+60A = stress ball. 85A = classic flexi. 95A = bendy but strong (ours). The
+lower the number, the squishier the print — and the harder it is to feed
+through the printer. Today's guides rank every option if we ever want
+stress-ball territory.
+→ [TPU picks by Shore hardness](https://3dprinting.com/filament/best-tpu-filament/) · [flexible filament overview](https://3dprinting.com/filament/flexible-filaments/)
+*Remix spark: squeeze the squishy-ball print and guess its number, then check the spool.*
+
+**🦾 Found it: the Exoskeleton & Articulated Mechanism contest page**
+The articulation contest we flagged weeks ago finally has a confirmed page —
+hosted by @MeshBear, all about joints and moving mechanisms. Matt: your gyro
+fidget, ball joints, and flexi work ARE this contest's subject. Check the end
+date on the page — if it's still open, you have an entry half-built already.
+→ [makerworld.com/en/contests/152](https://makerworld.com/en/contests/152)
+
+---
+
 ## 2026-08-02
 
 **🫥 Hide & Seek winners are out — go see if you spot familiar hiding tricks**
