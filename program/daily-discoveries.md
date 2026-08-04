@@ -5,6 +5,32 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-04
+
+**🔬 Turn the Materials Olympics into a real lab: the layer-strength jig**
+There's a printable testing jig with snap-in test chips for measuring layer
+adhesion (how well the printed layers weld together — the weakest direction of
+every print). Print the jig once, then test every filament we own the same
+way. That's how CNC Kitchen — the internet's favorite print-science channel —
+does it, with experiments showing hotter nozzles weld layers stronger.
+→ [Layer Strength Testing Jig (Printables)](https://www.printables.com/model/1010844-layer-strength-testing-jig-and-test-chips) · [CNC Kitchen on temperature vs layer adhesion](https://www.cnckitchen.com/blog/the-influence-of-extrusion-temperature-on-layer-adhesion)
+*Remix spark: add a "strength tested" line to the build log for every Olympics event.*
+
+**💪 The strength recipe book — read before Peter's PETG phone stand**
+A practical guide to stronger prints: more walls beat more infill, print
+orientation decides where the part is weak, and temperature matters more than
+you'd think. Peter + Dad: ten minutes of reading that will make the
+fits-first-try phone stand also a survives-the-backpack phone stand.
+→ [How to get stronger FDM prints](https://3dprinting.com/how-to/how-to-get-stronger-fdm-3d-prints/)
+
+**⏰🤖 CyberBrick's transforming "time machine" is the community flex right now**
+The same snap-together electronics system as the SoccerBot is trending with a
+transforming, light-up showcase build. Matt: while your RoboDog mod brews, this
+is what the modding community's ceiling looks like.
+→ [MakerWorld community trend tag](https://makerworld.com/en/search/postCommunity?keyword=tag%3A+new+trend)
+
+---
+
 ## 2026-08-03
 
 **🤖🐕 The RoboDog Mod Challenge is LIVE — starts today**
