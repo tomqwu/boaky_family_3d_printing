@@ -5,6 +5,32 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-05
+
+**🪴 Vacation-proof the houseplants — and design the planter yourself**
+Self-watering planters use wicking (water climbing up through soil like a paper
+towel soaking) to keep plants alive for a week-plus unattended. There's a
+classic ready-to-print version AND a Tinkercad tutorial for designing your own
+— which makes it a proper program project, not just a download. August trip
+insurance + a Mom-points machine.
+→ [Self-watering planter (Printables)](https://www.printables.com/model/57885-self-watering-rectangular-planter-with-optional-la) · [design-your-own Tinkercad tutorial](https://www.instructables.com/Design-Your-Own-3D-Printable-Self-Watering-Planter/)
+
+**👁️ They 3D printed CONTACT LENSES — and they won a gold medal**
+Researchers printed soft, water-loving silicone contact lenses with a coating
+so smooth your eye can't tell, custom-shaped per person — gold medal at a
+Shanghai invention expo, human trials next. The printer-precision ceiling is
+now measured in eyeballs.
+→ [3DPrint.com news briefs, August 1 2026](https://3dprint.com/329678/3d-printing-news-briefs-8-1-2026/amp/)
+
+**🚤 Peter: miniCITIES has a WATERFRONT expansion — your harbor just arrived**
+The Canals & Quays pack snaps marinas, quays, and canal networks onto the
+miniCITIES grid — the harbor idea from last week now has official parts. And
+the Futurama pack (84 buildings!) pairs with your NeoHexa future-city energy.
+→ [Canals & Quays expansion](https://makerworld.com/en/models/2345305-minicities-canals-quays-expansion-pack) · [Futurama pack](https://makerworld.com/en/models/1614545-minicities-futurama) · [Modern Architecture vol.1](https://makerworld.com/en/models/1483536-minicities-modern-architecture-vol-1-expansion)
+*Remix spark: a canal tile for YOUR city-tile system — water is just a blue recessed lane with quay walls.*
+
+---
+
 ## 2026-08-04
 
 **🔬 Turn the Materials Olympics into a real lab: the layer-strength jig**
