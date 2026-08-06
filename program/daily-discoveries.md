@@ -5,6 +5,30 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-06
+
+**👀 Bambu is teasing "something big" — Dad, watch this space**
+VoxelMatters reports Bambu Lab is about to drop a major announcement. No
+details yet — but after a summer of firmware surprises and new filaments,
+whatever lands next probably matters to this house.
+→ [VoxelMatters teaser](https://www.voxelmatters.com/bambu-lab-is-about-to-drop-something-big/)
+
+**🌠 The Perseids peak NEXT WEEK — print a phone-to-telescope adapter now**
+The year's best meteor shower peaks around Aug 12. A printed adapter clamps
+your phone to a telescope eyepiece for moon and sky photos — and the Adafruit
+guide has you customize the fit in Fusion with caliper measurements, which is
+literally Peter's skill of the week. Print this weekend, practice on the moon,
+be ready for shooting stars.
+→ [Phone adapter for telescope (Printables)](https://www.printables.com/model/608491-phone-adapter-for-telescope) · [Adafruit's customize-it guide](https://learn.adafruit.com/3d-printed-camera-tripod-adapter-for-telescope?view=all)
+*Remix spark: pair it with the printed observatory find from Jul 25 — full homemade astronomy rig.*
+
+**⏰ 3 days to Sunday's triple deadline**
+Hide & Seek, Insta360 Luna Ultra ($11k), and Pool Accessories all close Aug 9.
+Per Sunday's plan: ONE finished entry beats three half-entries — tonight's
+session decides which one ships.
+
+---
+
 ## 2026-08-05
 
 **🪴 Vacation-proof the houseplants — and design the planter yourself**
