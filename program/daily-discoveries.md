@@ -5,6 +5,33 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-07
+
+**🥟 The Dumpling Clicker — the internet's favorite desk fidget, found**
+We spotted "dumpling clickers" trending weeks ago; here's the actual model: a
+chubby dumpling hiding a real mechanical keyboard switch (the clicky button
+from gaming keyboards) for a perfect tactile CLICK, with a print-in-place
+carrying container. Matt: one switch + one print = the most satisfying 2-hour
+project of the week.
+→ [makerworld.com/en/models/2764007-dumpling-clicker](https://makerworld.com/en/models/2764007-dumpling-clicker)
+*Remix spark: a soccer-ball clicker with the same switch — your team's stress button.*
+
+**⌨️ Type it, print it: text-to-3D is live in MakerLab**
+Meshy's AI in Bambu's MakerLab now takes a typed DESCRIPTION — not just a
+photo — and generates a printable model. "A grumpy robot goalkeeper with big
+gloves" → a model in minutes. Great for drafting ideas fast; your hand-designed
+versions will still beat it where it counts (fit, joints, printability).
+→ [FilamentFeed on Meshy text-to-3D](https://filamentfeed.com/article/meshy-ai-text-to-3d-makerworld-june-2026) · [MakerLab](https://makerworld.com/en/makerlab)
+*Remix spark: generate a rough monster with text, then rebuild it properly in Tinkercad — AI drafts, you engineer.*
+
+**📰 Printables published its August preview — read the month before it happens**
+Printables' preview article lays out what's coming to the platform this month —
+worth a family skim for upcoming contests and features we can plan around
+(week 8 publishing is coming fast).
+→ [Printables August preview](https://www.printables.com/article/august-preview-whats-coming-next-month-to-the-make-VdQbBKZ)
+
+---
+
 ## 2026-08-06
 
 **👀 Bambu is teasing "something big" — Dad, watch this space**
