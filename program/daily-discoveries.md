@@ -5,6 +5,38 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-08
+
+**⏰ FINAL CALL: the triple deadline is TOMORROW (Sunday Aug 9)**
+Hide & Seek submissions, the Insta360 Luna Ultra Challenge ($11k in prizes),
+and Printables' Pool Accessories (closes 23:59 UTC) all end tomorrow. The
+playbook rule is "submit a day early" — which makes TODAY submission day.
+ONE finished entry beats three half-entries: pick the entry that's furthest
+along, take good photos in daylight, and have Dad hit submit tonight.
+→ [makerworld.com/en/contests](https://makerworld.com/en/contests) · [Pool Accessories](https://www.printables.com/contest)
+
+**❤️⚙️ Mechanical hearts — gears you can print that actually DO something**
+A whole cluster of gear-driven heart models is trending on MakerWorld, and
+they're basically our Gift Machine's dream team: a [Gear-Driven Love Heart](https://makerworld.com/en/models/2282608-gear-driven-love-heart)
+that reveals four hidden messages as you turn its internal gears (hole-and-pin
+assembly, no glue), a [Steampunk Heart Box](https://makerworld.com/en/models/2280939-steampunk-heart-box-mechanical-valentine-gift)
+whose lids gear open to show a gift compartment, and a
+[Beating Mechanical Heart](https://makerworld.com/en/models/1695564-beating-mechanical-heart-pure-3d-printed-escapemen)
+that ticks using an escapement — the same tick-tock trick from the Jul 29
+clock find (a gear that's let go one tooth at a time). Plus bite-size
+[Heart Fidget Gears](https://makerworld.com/en/models/901784-heart-fidget-gears) for Matt.
+*Remix spark: a gear-driven opening lid for our own gift-box.scad — Mom's
+December gift that OPENS ITSELF is peak Gift Machine.*
+
+**🪁 All3DP just refreshed its big project list for August**
+The monthly "coolest things to print" roundup is out with fresh picks: a
+super glider, a cocktail machine, and a "deafening whistle" — which is
+exactly idea bank #139 (the aeroacoustics whistle), now with a current
+model to compare yours against. Good scroll for a slow afternoon.
+→ [All3DP August 2026 roundup](https://all3dp.com/1/useful-cool-things-3d-print-ideas-3d-printer-projects-stuff/)
+
+---
+
 ## 2026-08-07
 
 **🥟 The Dumpling Clicker — the internet's favorite desk fidget, found**
