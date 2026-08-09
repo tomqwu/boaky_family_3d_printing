@@ -5,6 +5,38 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-09
+
+**🎒 "Prints on the Go" — MakerWorld's new challenge is literally made for us (⏰ runs Aug 7 – Sep 3)**
+Print something, take it on an adventure, photograph it in the wild, post
+with #PrintsOnTheGo — that's the whole contest. Their own idea list includes
+hiking terrain maps, travel fidget toys, and city-themed magnets... which is
+our exact family. Winners announced Sep 15, so a late-August family outing
+can BE the entry.
+→ [makerworld.com/en/@MakerWorld](https://makerworld.com/en/@MakerWorld)
+*Remix spark: Peter prints a terrain-to-scad model of a real hike, the family
+climbs the actual hill, photo of the print ON its own summit. Unbeatable.*
+
+**🌀 Parametric Staircase Generator — sliders that build stairs for Peter's city**
+A trending customizable model where you drag sliders (that's what parametric
+means — numbers that rebuild the shape instantly) for step count, height, and
+twist, and it generates a printable spiral staircase. Perfect fire-escape or
+grand-entrance material for original buildings.
+→ [makerworld.com/en/models/2768615-parametric-staircase-generator](https://makerworld.com/en/models/2768615-parametric-staircase-generator)
+*Remix spark: add a `spiral_stairs` module to parametric-building.scad — one
+more slider on OUR generator.*
+
+**📅 Contest calendar shuffle: two NEW ones incoming + today's last call**
+Today at 23:59 UTC the triple deadline closes for real (Hide & Seek,
+Insta360, Pool Accessories — if an entry is ready, Dad submits it TODAY).
+And the radar already shows what's next: a **Pool Party Design Contest
+starts TOMORROW (Aug 10)** and a **Bug Off Design Contest starts Aug 17** on
+MakerWorld — Matt, a print-in-place flexi bug for week 6's mechanisms theme
+would hit both the contest AND the curriculum.
+→ [makerworld.com/en/contests](https://makerworld.com/en/contests)
+
+---
+
 ## 2026-08-08
 
 **⏰ FINAL CALL: the triple deadline is TOMORROW (Sunday Aug 9)**
