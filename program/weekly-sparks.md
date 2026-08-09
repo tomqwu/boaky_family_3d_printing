@@ -6,6 +6,71 @@ always there too. *Weird words? [Decoder Ring](10-glossary.md).*
 
 ---
 
+## Week 6 — Real Data & Mechanisms (Aug 10–16) · posted 2026-08-09
+
+This week the printer starts making things about the REAL world: Peter feeds
+it actual map data, Matt makes parts that store energy and move. Peter's
+pipeline, start to finish:
+
+```mermaid
+flowchart LR
+    A["Pick a real place on OpenStreetMap"] --> B["Run osm-to-scad or terrain-to-scad"]
+    B --> C["Open in OpenSCAD and press F6"]
+    C --> D["Export STL and slice"]
+    D --> E["Print a real piece of Earth"]
+```
+
+**🗺️ Peter: the Before-and-After block.** Print your neighborhood block TWICE:
+once straight from OpenStreetMap data (OSM — the free world map anyone can
+edit, like Wikipedia for maps) using `projects/peter/osm-to-scad.py`, and once
+with YOUR redesign — the empty-lot building from week 3 dropped into its real
+spot. Two tiles side by side is exactly how real planners present a proposal:
+"here's today, here's my plan."
+
+**🦗 Matt: the jumping bug (⏰ Bug Off contest starts Sunday Aug 17).** Mechanisms
+week mission: design a flexi bug that JUMPS using a printed spring — a
+compliant mechanism, which means a part that bends on purpose instead of
+using a metal spring. Press down, let go, boing. Prototype it this week and
+it's ready the day the contest opens — a week early instead of a day late.
+
+**⚙️ Matt bonus: the snap-fit soccer trophy.** Practice snaps (little printed
+clips that click parts together, no glue) by designing a mini trophy where
+the ball, base, and name plate all snap apart — a fidget AND a prize for the
+next backyard penalty shootout.
+
+**👨‍👩‍👦‍👦 Family build: the Prints on the Go expedition.** MakerWorld's new
+challenge (runs to Sep 3) wants photos of prints out in the world. Plan ONE
+family outing this week: Peter prints the terrain model of a real local hill
+with `terrain-to-scad.py`, everyone hikes it, and you photograph the print on
+its own summit. One hike = contest entry + week-6 data lesson + memory.
+
+**🎁 Gift Machine: caliper week for teacher gifts.** Teacher desk plaques
+print in ~2 weeks (calendar says last week of August). This week: calipers
+out (the pinch-to-measure tool), measure and LOCK each design — names spelled
+right, sizes written down. Grandparents' hometown map bonus: the expedition
+terrain print is secretly also a rehearsal for that gift.
+
+**☀️ Wildcard: a sundial that actually tells time.** Real-data project with
+zero electronics: print a sundial matched to our latitude (how far north we
+live — the angle that makes a sundial honest). Customizable sundial models
+let you type the latitude in; set it outside pointing north and check it
+against a phone clock. Astronomy bonus: the Perseids meteor shower peaks
+Wednesday night (Aug 12) — the phone-telescope adapter from the Aug 6
+discoveries is this week's night shift.
+
+### 📅 Contest radar (next 2 weeks)
+
+| Deadline | Contest | Fits |
+|---|---|---|
+| **Aug 10 (Mon)** | Pool Party Design Contest STARTS (MakerWorld) | Matt |
+| **Aug 17 (Sun)** | Bug Off Design Contest STARTS (MakerWorld) | Matt's jumping bug |
+| **Sep 3** | Prints on the Go photo challenge closes (MakerWorld) | Family expedition |
+| ongoing | RoboDog Mod Challenge (MakerWorld) | Matt |
+
+Submit a day early, from Dad's account ([playbook](04-contests-and-community.md)).
+
+---
+
 ## Week 5 — New Materials (Aug 3–9) · posted 2026-08-02
 
 Materials week: the printer stops being a PLA machine. The quick chooser:
