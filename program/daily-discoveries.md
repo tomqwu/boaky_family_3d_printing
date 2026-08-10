@@ -5,6 +5,40 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-10
+
+**🗺️ Perfect timing, Peter: new browser tools that print real cities — race them**
+Week 6 starts TODAY, and a wave of new web tools does exactly what your
+Python pipeline does: [Map2Model](https://3druck.com/en/programs/map2model-webtool-creates-free-3d-printable-city-models-from-openstreetmap-data-51147820/)
+turns OpenStreetMap data (OSM — the free world map anyone can edit, like
+Wikipedia for maps) into printable city STLs in the browser,
+[TerraPrinter](https://terraprinter.com/) adds terrain + roads + water, and
+[PrintPal's map generator](https://printpal.io/tools/scale-map-generator) does
+true-scale elevation with building footprints. Fun fact: Map2Model can't do
+hills at all — YOUR terrain-to-scad.py can. ([Fabbaloo's take](https://www.fabbaloo.com/news/map2model-offers-accessible-way-to-generate-cityscapes-for-3d-printing))
+*Remix spark: same block, three ways — your script vs two web tools. Print
+all three tiles and judge which nails the neighborhood. Real tool review.*
+
+**🌀 Wind spinners are having a moment — and there's a contest for it**
+MakerWorld is running a Wind Spinner Design Contest this week, and the
+trending page is full of kinetic spinners (kinetic = powered by motion, no
+batteries) — like the [Twisted Helix Vortex](https://makerworld.com/en/models/2677110-twisted-helix-vortex-kinetic-wind-spinner),
+plus spinning soccer-ball keychains riding the World Cup wave. Matt: a
+spinner is a mechanism you can SEE working — perfect mechanisms-week warmup.
+→ [makerworld.com/en/contests](https://makerworld.com/en/contests)
+*Remix spark: a soccer-ball wind spinner where the panels are the blades —
+spinning-top geometry, but hung from the porch.*
+
+**🕵️ Dad: the "something big" teaser might be solved — H2S on Aug 26?**
+The rumor mill (a leaked manual, per the forum speculation threads) points to
+an **H2S** launching around Aug 26 — reportedly a big single-nozzle
+multi-color machine, alongside news of a Helio Additive tie-in that adds
+print simulation to Bambu Studio. Rumors until Bambu says so — but now we
+know what date to circle.
+→ [3Dnatives coverage](https://www.3dnatives.com/en/bambu-lab-unveils-helio-additive-integration-and-h2d-pro-printer-190820256/) · [forum speculation thread](https://forum.bambulab.com/t/speculation-about-new-printer-announcements/28756/4231)
+
+---
+
 ## 2026-08-09
 
 **🎒 "Prints on the Go" — MakerWorld's new challenge is literally made for us (⏰ runs Aug 7 – Sep 3)**
