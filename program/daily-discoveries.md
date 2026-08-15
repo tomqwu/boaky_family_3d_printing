@@ -5,6 +5,42 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-15
+
+*(The research robot napped Aug 11–14 — back online. Here's what mattered.)*
+
+**🔮 Bambu Studio can now predict print problems BEFORE you print**
+The Helio "Dragon" engine is now built into Bambu Studio for H-series
+printers (that's us): it runs a physics simulation — a computer trying out
+the print virtually first — by chopping your model into voxels (3D pixels,
+like Minecraft blocks) and tracking how heat flows between them, then warns
+where warping or weak layers will happen. Everyone gets 25 free simulations
+a month. Peter + Dad: run it on the next big city tile before committing 6
+hours of filament.
+→ [Fabbaloo explainer](https://www.fabbaloo.com/news/bambustudio-now-integrates-helio-additive-simulation-for-optimized-3d-print-quality) · [3D Printing Industry](https://3dprintingindustry.com/news/new-bambu-lab-software-integration-adds-physics-based-simulation-capabilities-243009/)
+*Remix spark: simulate the skyline-generator at full plate size — find the
+warp zones before the printer does.*
+
+**🌀 The Wind Spinner contest page is live — three ways to win**
+Monday's spinner wave now has an official hub: the contest wants designs in
+three lanes — twisted/helical motion, organic shapes (flowers, butterflies),
+or optical effects that shift as they rotate. Matt's soccer-ball spinner idea
+fits lane one; check the page for the exact deadline before starting.
+→ [Wind Spinner Design Contest](https://makerworld.com/en/contests/140)
+
+**🐛 Bug Off opens SUNDAY (Aug 17) — study the champion bugs this weekend**
+Matt, before your jumping bug enters the ring, scout the competition: the
+[Flexi Beetle with a Hidden Box](https://makerworld.com/en/models/167969)
+(a bug that's also a secret container), the
+[Caterpillar Flexi](https://makerworld.com/en/models/495988) (super-smooth
+articulation — printed joints that move right off the plate), and the
+[Space Bug](https://makerworld.com/en/models/848941). Notice what they DON'T
+have: nobody's bug jumps. That's your opening.
+*Remix spark: flexi-snake segments + a compliant-spring thorax = the first
+bug in the contest with a boing.*
+
+---
+
 ## 2026-08-10
 
 **🗺️ Perfect timing, Peter: new browser tools that print real cities — race them**
