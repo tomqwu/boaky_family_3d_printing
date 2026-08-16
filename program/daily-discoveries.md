@@ -5,6 +5,34 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-16
+
+**⚙️ Printables just launched a GEARED SPINNERS challenge — Matt, this is your week**
+The new Designer Challenge theme (picked by August's Designer of the Month)
+is spinners driven by gears — exactly what mechanisms week trained you for.
+Top entries win a Prusa printer kit and 1,750+ Prusameters (Printables'
+reward points). Between this and MakerWorld's Wind Spinner contest, one
+spinning obsession now has TWO contests — check the page for the deadline.
+→ [Geared Spinners challenge](https://www.printables.com/contest/521-designer-challenge-geared-spinners) · [Designer of the Month interview](https://www.printables.com/article/designer-of-the-month-august-9Zm3aO5)
+*Remix spark: gears from the heart-gears find (Aug 8) + spinning-top physics
+= a hand-cranked gear spinner that doubles both entries' research.*
+
+**🌆 Peter: a customizer that prints ANY city's skyline in multicolor**
+"Mini Skyline" is a MakerWorld tool-model: pick almost any real place on
+Earth, and it generates a detailed multicolor mini skyline ready to slice
+(it exports a 3MF — a print file that keeps the color info, unlike plain
+STL). It's your skyline-generator.scad with a world map attached — study
+how it groups colors by building.
+→ [Mini Skyline: Real City to 3D Print](https://makerworld.com/en/models/2983366-mini-skyline-real-city-planet-to-3d-print)
+*Remix spark: generate its NYC, print it next to YOUR skyline-generator
+version of the same blocks — the customizer vs the kid, showcase-day exhibit.*
+
+**🐛 Calendar: Bug Off opens TOMORROW (Mon Aug 17)**
+The jumping-bug plan from yesterday's scouting report goes live — enter
+early, not on deadline day ([contest hub](https://makerworld.com/en/contests)).
+
+---
+
 ## 2026-08-15
 
 *(The research robot napped Aug 11–14 — back online. Here's what mattered.)*
