@@ -6,6 +6,67 @@ always there too. *Weird words? [Decoder Ring](10-glossary.md).*
 
 ---
 
+## Week 7 — Capstones (Aug 17–23) · posted 2026-08-16
+
+Capstone week: the big builds start printing. This week isn't about new
+tricks — it's about running a multi-day project like a pro. The loop:
+
+```mermaid
+flowchart LR
+    A["Plan all plates with Dad"] --> B["Queue the prints"]
+    B --> C["Print while you build the next part"]
+    C --> D["Assemble and test"]
+    D --> E["Find what breaks"]
+    E --> B
+```
+
+**🏙️ Peter: give the district a museum plaque.** Real architectural models
+always have one: a printed nameplate tile with the district's name, the
+scale (like 1:1000 — one millimeter on the model = one meter for real), and
+"designed by Peter Boaky, 2026." Design it first — naming the thing makes
+the 20-plate grind feel like building a real place. Bonus: run the new
+Helio simulation (see [Aug 15 discoveries](daily-discoveries.md)) on your
+biggest plate BEFORE printing — a 6-hour save if it finds a warp zone.
+
+**⚽ Matt: draft night for the Boaky Cup.** Before the stadium prints, hold
+a team draft: every family member designs ONE player figure (snap-fit base,
+week-6 skill) — that's a 4-player league, and everyone's invested in YOUR
+capstone. Penalty-shootout from projects/ becomes the halftime mini-game.
+
+**📋 Family build: Mission Control on the fridge.** Capstones are print-farm
+week (running many plates like a tiny factory). Sticky note per plate on the
+fridge: what it is, print hours, who checks it and when, moved across
+"queued → printing → done → assembled" columns. That's a kanban board —
+how real factories and software teams track work — and it prevents the
+classic capstone fail: nobody noticed plate 7 finished at lunch.
+
+**🎬 Wildcard: record the time-lapses NOW.** The H2C's camera can film every
+plate. Turn time-lapse on for the whole capstone run — showcase day (Aug 30)
+with a movie of the district growing beats photos alone, and you can't
+re-film a print you already ran.
+
+**🐛 Wildcard: Bug Off opens MONDAY.** The jumping bug from last week's
+scouting is ready — enter EARLY in the week as a capstone warmup, don't let
+it collide with deadline-day plate juggling.
+
+**🎁 Gift Machine: prototype ONE teacher plaque.** Teacher gifts print next
+week (last week of August). Print a single test plaque midweek — check the
+name spelling, font size, and colors with fresh eyes before running the
+whole batch.
+
+### 📅 Contest radar (next 2 weeks)
+
+| Deadline | Contest | Fits |
+|---|---|---|
+| **Aug 17 (Mon)** | Bug Off Design Contest OPENS (MakerWorld) | Matt's jumping bug |
+| check page | Wind Spinner Design Contest (MakerWorld) | Matt |
+| check page | Geared Spinners challenge (Printables) | Matt |
+| **Sep 3** | Prints on the Go photo challenge closes (MakerWorld) | Family expedition |
+
+Submit a day early, from Dad's account ([playbook](04-contests-and-community.md)).
+
+---
+
 ## Week 6 — Real Data & Mechanisms (Aug 10–16) · posted 2026-08-09
 
 This week the printer starts making things about the REAL world: Peter feeds
