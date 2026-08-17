@@ -5,6 +5,38 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-17
+
+**🐛 PLOT TWIST: Bug Off is about keeping bugs OUT, not making them**
+The contest page is live and the theme is "Smart Ideas for a Bug-Free Home" —
+they want anti-bug gadgets (traps, screens, clever covers), not flexi
+insects. Good news #1: your jumping bug is still an awesome toy and a Boaky
+Cup halftime star. Good news #2: it runs ~45 more days, so no capstone-week
+panic. Matt, the mechanisms skills transfer perfectly: think print-in-place
+fly swatter with a compliant-spring SNAP, or a picnic food-cover dome.
+→ [makerworld.com/en/contests](https://makerworld.com/en/contests)
+
+**⚽ Boaky Cup rival scouting — study the three best tabletop soccer games**
+Capstone day 1 homework, Matt: the competition already on MakerWorld.
+[FLICKpitch](https://makerworld.com/en/models/1970788-flickpitch-table-soccer-futbol-game)
+(finger-flick shots off the walls), [PitchDuel](https://makerworld.com/en/models/2135362-pitchduel-2-player-flick-soccer-table-game)
+(fast two-player flick duels), and a full
+[mini FOOSBALL table](https://makerworld.com/en/models/1526222-foosball) held
+together by interlocking joints and PRINTED screws — no metal parts. Steal
+ideas like a designer: what makes each fun, what would make yours MORE fun?
+*Remix spark: printed screws for the Boaky Cup goals — nothing to lose under
+the couch except the ball.*
+
+**🛡️ MakerWorld now fights design theft for its creators**
+New "Copyright Support" program: if someone steals an exclusive creator's
+design and reposts it, MakerWorld's team helps take it down. Why it matters
+here: week 8 is publishing week — when the capstones go online, this is the
+system protecting YOUR original work (original > copied has been the whole
+summer's motto).
+→ [BambuHub news roundup](https://bambuhub.net/news)
+
+---
+
 ## 2026-08-16
 
 **⚙️ Printables just launched a GEARED SPINNERS challenge — Matt, this is your week**
