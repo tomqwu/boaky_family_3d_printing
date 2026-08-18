@@ -5,6 +5,38 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-18
+
+**🚇 Peter, look: city dioramas where the metro actually MOVES**
+The MAXi Train series builds landmark cities — [Shanghai Rising](https://makerworld.com/en/models/2197810-maxi-train-functional-shangai-rising-diorama)
+with the Oriental Pearl Tower, [Tokyo Blossom](https://makerworld.com/en/models/1766013-maxi-train-functional-tokyo-blossom-diorama)
+with the Skytree — and a train that glides between the buildings. The trick
+(see the [Mini Train diorama](https://makerworld.com/en/models/1114666-mini-train-functional-city-diorama)):
+you turn a hand-wheel on the edge, and magnets under the streets drag the
+train and cars along. No motor, no batteries — pure mechanism.
+*Remix spark: your capstone district has a transit line drawn on paper.
+A magnet-slider channel under one street makes it a transit line that RUNS —
+showcase-day jaw-dropper.*
+
+**🎒 The back-to-school print wave is on — and school IS coming**
+MakerWorld's [back-to-school collections](https://makerworld.com/en/collections/19930034-back-to-school)
+are surging: the standout is a [magnetic-lock drawer pencil case](https://makerworld.com/en/models/611254-magnetic-lock-drawer-pencil-case-school-and-work)
+(drawers that click shut with the same magnets as our coasters) and a
+[locker shelf](https://makerworld.com/en/models/584986-locker-shelf). Both
+kids: one custom school print each before showcase week — useful beats
+decorative when it lives in your backpack.
+*Remix spark: name-keychain.scad letters on the pencil-case lid — nobody
+"accidentally borrows" a case with your name printed INTO it.*
+
+**🐉 August's top-picks list: a dragon that holds your pens**
+PIXUP's early-August roundup stars a chibi dragon pen holder (chibi = the
+cute, big-headed cartoon style) — a desk buddy with an integrated pen cup,
+plus a museum-grade Doctor Doom mask for the display-print fans. Matt: desk
+buddy + back-to-school wave = one print that does both.
+→ [PIXUP early August top picks](https://pixup3d.com/blog/new-3d-printable-models-early-august-2026-top-picks/)
+
+---
+
 ## 2026-08-17
 
 **🐛 PLOT TWIST: Bug Off is about keeping bugs OUT, not making them**
