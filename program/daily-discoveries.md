@@ -5,6 +5,39 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-19
+
+**🧐 CORRECTION: that "H2S coming Aug 26" rumor was LAST YEAR'S news**
+Today's digging revealed the Aug 10 rumor entry was built on articles from
+August 2025 — that was the launch wave that gave the world the H2S and our
+own H2C ([the announcement](https://www.tomshardware.com/3d-printing/hot-on-the-heels-of-the-h2s-bambu-lab-announces-the-seven-color-wireless-nozzle-swapping-vortek-h2c),
+[All3DP's coverage](https://all3dp.com/4/the-bambu-lab-h2s-is-coming-and-it-doesnt-take-a-genius-to-figure-out-what-it-is/)).
+The 2026 "something big" teaser is still unsolved. Lesson for all of us
+(research robot included): **always check the DATE on an article before
+believing it's news** — the internet loves serving year-old headlines.
+
+**🎨 Bambu Studio 2.8.1 Beta: "Decompose Color" is worth a poke**
+The new beta adds a Decompose Color tool — it takes a model's colors and
+splits them apart so you can reassign each one to different filaments —
+handy when a downloaded multicolor model's colors don't match what's in
+your AMS. Beta means "still being tested," so Dad installs it alongside the
+stable version, not instead of it. Peter: try it on a downloaded city model
+before capstone painting.
+→ [BambuHub news](https://bambuhub.net/news) · [firmware tracker](https://bambuhub.net/bambu-firmware-tracker)
+
+**🌀 A marble run whose elevator is a STAIRCASE — printed in one piece**
+We've logged marble runs before, but this one's lift mechanism is new: a
+hand-cranked automaton (a machine that acts out motion, like a wind-up
+theater) where four moving stair steps walk the marble uphill — and the
+whole thing is print-in-place, zero assembly. Matt: this is capstone-week
+mechanism study disguised as a toy — crank it, then explain to Dad HOW the
+steps take turns.
+→ [Print-in-Place Staircase Automaton Marble Run](https://makerworld.com/en/models/1732564-print-in-place-staircase-automaton-marble-run) · bonus: the [motorized Sisyphus machine](https://makerworld.com/en/models/2207077-sisyphus-marble-machine-v3-motorized)
+*Remix spark: a staircase lift for the Boaky Cup — the ball climbs back to
+center field by itself after every goal.*
+
+---
+
 ## 2026-08-18
 
 **🚇 Peter, look: city dioramas where the metro actually MOVES**
