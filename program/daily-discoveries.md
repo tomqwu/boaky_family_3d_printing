@@ -5,6 +5,38 @@ Fresh finds, raw and unfiltered — the good ones graduate to the
 
 ---
 
+## 2026-08-20
+
+**🔮 REAL 2026 Bambu news this time: patents show a NINE-slot Vortek**
+Fresh patents (filed June 30, published Aug 14 — dates checked this time!)
+show where our printer's tech is heading: a hotend rack with NINE bays
+instead of our Vortek's six (the printer's tool-belt of spare hotends), a
+one-motion swap that parks and grabs a hotend in a single move, and an air
+channel that doubles as a nozzle spotlight. Patents aren't products — but
+this is the family printer's future being sketched in public. Dad + Peter:
+compare the drawings to what the H2C does today.
+→ [Fabbaloo on the nine patents](https://www.fabbaloo.com/news/nine-bambu-lab-patents-reveal-broader-printer-architecture) · [3Druck breakdown](https://3druck.com/en/printers-and-products/bambu-labs-new-patents-describe-an-automatic-printhead-changer-03161851/) · [nine-bay rack details](https://3dprintingcostcalculator.com/news/bambu-lab-hotend-rack-patent)
+
+**🎛️ The 12-in-1 fidget: twelve mechanisms, one print, zero assembly**
+A brand-new print-in-place slab packing TWELVE different mechanisms — wheel
+clicker, ratcheting knob (a gear that only turns one way, with that
+tick-tick sound), bubble popper, joystick, button clicker and more. Matt:
+this is mechanisms week's final exam printed as a toy — print it, then name
+which of the twelve YOUR designs already use.
+→ [12-in-1 Ultimate Multi Fidget Toy](https://makerworld.com/en/models/3012887-12-in-1-ultimate-multi-fidget-toy-print-in-place)
+*Remix spark: a Boaky 4-in-1 — clicker + spinner + your compliant spring +
+a mini penalty flick, one plate.*
+
+**⚽ Remember the soccer-clicker remix spark? Someone already built it**
+Back on Aug 7 the idea was "a soccer-ball clicker with a keyboard switch."
+Turns out the concept exists: a [Soccer Ball Fidget Clicker](https://makerworld.com/en/models/1340084-soccer-ball-fidget-clicker),
+plus a fresh [World Cup 2026 Fidget Ball](https://makerworld.com/en/models/2940779-world-cup-2026-fidget-ball)
+riding the summer's soccer wave. Matt: good ideas get built by SOMEBODY —
+study theirs, find what's missing (yours had a real keyboard switch!), and
+build the better one. That's not copying, that's how design moves forward.
+
+---
+
 ## 2026-08-19
 
 **🧐 CORRECTION: that "H2S coming Aug 26" rumor was LAST YEAR'S news**
